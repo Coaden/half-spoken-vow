@@ -1,5 +1,12 @@
 # WorldState Changelog
 
+## 3.0.2 — 2026-08-22 — Continuity repair records grouped with audits
+
+Moved the Book One continuity repair matrix and reserved-question registry to
+`WorldState/BookOneCausalContinuityAudit/` so their location reflects their relationship to the causal
+continuity audit series. Updated all internal references. No canon, ledger state, or episode prose
+changed.
+
 ## 3.0.1 — 2026-08-22 — Private version-control baseline and asset policy
 
 Prepared the complete project for its first private GitHub baseline. Added repository ignore and file-
@@ -48,9 +55,10 @@ unchanged.
 
 **Files changed:** all sixty live files under `Assets/Book One/Episodes/`, `BookCodex.json` (3.0.0),
 `Book-One-Storyline.md` (4.0.0), `BookOneEpisodeMap.json` (4.0.0), `ContinuityLedger.json` (4.0.0),
-`Articles-of-Agreement-1871-DRAFT.md`, `BookOneContinuityRepairMatrix.md`,
-`BookOneContinuityRepairQuestions.md`, six repair audit reports, the final whole-book audit, and this
-changelog.
+`Articles-of-Agreement-1871-DRAFT.md`,
+`WorldState/BookOneCausalContinuityAudit/BookOneContinuityRepairMatrix.md`,
+`WorldState/BookOneCausalContinuityAudit/BookOneContinuityRepairQuestions.md`, six repair audit reports,
+the final whole-book audit, and this changelog.
 
 ## 2.3.3 — 2026-08-21 — Continuity repair rules locked before manuscript revision
 
@@ -81,7 +89,8 @@ No episode manuscript was modified.
 
 **Files changed:** `BookCodex.json` (2.3.0), `Book-One-Storyline.md` (3.1.0),
 `BookOneEpisodeMap.json` (3.1.0), `ContinuityLedger.json` (3.3.0),
-`Articles-of-Agreement-1871-DRAFT.md`, `BookOneContinuityRepairQuestions.md`,
+`Articles-of-Agreement-1871-DRAFT.md`,
+`WorldState/BookOneCausalContinuityAudit/BookOneContinuityRepairQuestions.md`,
 `docs/locked-decisions.md`, and this changelog.
 
 ## 2.3.2 — 2026-08-21 — Book One continuity audit completed and Articles history locked
@@ -91,7 +100,9 @@ ten-episode blocks, following the existing Episode One through Twenty reports. `
 3.2.0 now carries all sixty episode entry/exit states, thirty-three independently tracked obligations,
 sixteen causal bridges, ten explanation debts, twenty-three contradictions, principal character-state
 snapshots through Episode Sixty, and pointers to all six reports. Collected twenty author decisions or
-reserved-answer questions in `BookOneContinuityRepairQuestions.md` for the progressive repair pass.
+reserved-answer questions in
+`WorldState/BookOneCausalContinuityAudit/BookOneContinuityRepairQuestions.md` for the progressive repair
+pass.
 
 Locked the author's Articles-history ruling: all nine clauses existed in the executed 1871 instrument.
 Later brides generated interpretations, constructions, precedents, depositions, statements, verbal
@@ -108,7 +119,8 @@ that creates exile remains a flagged repair bridge.
 No episode manuscript was modified. The episode map was read as planning authority but not changed.
 
 **Files changed:** `BookCodex.json`, `Book-One-Storyline.md` (3.0.2), `ContinuityLedger.json` (3.2.0),
-this changelog, `BookOneContinuityRepairQuestions.md`, and the B1E21–30, B1E31–40, B1E41–50, and
+this changelog, `WorldState/BookOneCausalContinuityAudit/BookOneContinuityRepairQuestions.md`, and the
+B1E21–30, B1E31–40, B1E41–50, and
 B1E51–60 audit reports.
 
 ## 2.3.1 — 2026-08-21 — Narrative continuity audit, Episodes Eleven through Twenty

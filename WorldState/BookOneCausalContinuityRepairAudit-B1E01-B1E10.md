@@ -2,7 +2,7 @@
 
 **Audit date:** 2026-08-21  
 **Scope:** Repaired live manuscript only. The pre-audit backup was not modified.  
-**Authority:** `BookCodex.json`, `Articles-of-Agreement-1871-DRAFT.md` for Clauses One–Three, `BookOneContinuityRepairMatrix.md`, and author-locked decisions.
+**Authority:** `BookCodex.json`, `Articles-of-Agreement-1871-DRAFT.md` for Clauses One–Three, `WorldState/BookOneCausalContinuityAudit/BookOneContinuityRepairMatrix.md`, and author-locked decisions.
 
 ## Result
 
