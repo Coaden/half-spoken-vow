@@ -1,5 +1,13 @@
 # WorldState Changelog
 
+## 3.0.4 — 2026-08-22 — Book One reader’s edition of the Articles
+
+Added `Assets/Articles/The-Articles-of-Agreement-1871-Book-One-Readers-Edition.md`, a reader-facing
+appendix suitable for Book One distribution. It reproduces the recitals, reserved rights, constitutional
+rules, and Clauses One through Three of the 1871 Instrument; identifies those clauses as visible but
+barred from execution after Book One; and leaves Clauses Four through Nine sealed so later-book
+mechanisms are not spoiled. The canonical draft remains unchanged.
+
 ## 3.0.3 — 2026-08-22 — All Book One causal continuity audits co-located
 
 Moved the six report-only audit reports, six repair audit reports, and the whole-book final audit into
