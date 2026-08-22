@@ -1,5 +1,11 @@
 # WorldState Changelog
 
+## 3.0.3 — 2026-08-22 — All Book One causal continuity audits co-located
+
+Moved the six report-only audit reports, six repair audit reports, and the whole-book final audit into
+`WorldState/BookOneCausalContinuityAudit/`. Updated every ledger pointer and internal document reference.
+No canon, ledger fact, or episode prose changed.
+
 ## 3.0.2 — 2026-08-22 — Continuity repair records grouped with audits
 
 Moved the Book One continuity repair matrix and reserved-question registry to
@@ -26,10 +32,11 @@ directories. No canon or episode prose changed.
 ## 3.0.0 — 2026-08-21 — Book One continuity repair complete
 
 Completed the progressive repair and re-audit of all sixty Book One episodes. Each ten-episode block now
-has a passing repair report, and `BookOneCausalContinuityFinalAudit.md` records the passing whole-book
-audit. All twenty-three contradictions identified by the report-only audits are resolved in the live
-manuscript. Causal bridges, character knowledge, obligation states, deadlines, institutional authority,
-and the Book One exit state are reconciled in `ContinuityLedger.json` 4.0.0.
+has a passing repair report, and
+`WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityFinalAudit.md` records the passing
+whole-book audit. All twenty-three contradictions identified by the report-only audits are resolved in
+the live manuscript. Causal bridges, character knowledge, obligation states, deadlines, institutional
+authority, and the Book One exit state are reconciled in `ContinuityLedger.json` 4.0.0.
 
 Locked June's transformation history: first change at sixteen, Rose's bare childhood safety teaching,
 fifteen years of unsafe private containment, Kenneth's anonymous card at twenty-six, and room six as
@@ -137,7 +144,7 @@ bride-order, first-change, vote-method, prepared-room, and Article-liability iss
 No episode manuscript, episode map, storyline, or locked canon was modified.
 
 **Files changed:** `ContinuityLedger.json` (3.1.0), this changelog, and
-`BookOneCausalContinuityAudit-B1E11-B1E20.md`.
+`WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E11-B1E20.md`.
 
 ## 2.3.0 — 2026-08-21 — Narrative causal continuity workflow
 
@@ -157,7 +164,8 @@ gaps, contradictions, institutional interpretations, episode exit state, and aud
 existing eighty facts remain intact.
 
 Ran the first report-only audit over finalized B1E01–B1E10 and recorded its findings in
-`BookOneCausalContinuityAudit-B1E01-B1E10.md`. No episode manuscript was modified.
+`WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E01-B1E10.md`. No episode
+manuscript was modified.
 
 **Files changed:** `.agents/skills/narrative-causal-continuity/SKILL.md` and supporting schema/UI
 metadata, `.agents/skills/series-chapter-writer/SKILL.md`, `ContinuityLedger.json` (3.0.0), this

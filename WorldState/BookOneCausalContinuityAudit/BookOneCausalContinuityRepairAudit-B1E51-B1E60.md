@@ -31,4 +31,5 @@ The final block now supplies a complete Book One resolution with a clean causal 
 June holds permanent adverse-party standing with six operative clauses, work, wages, and a six-month lease. Milo is home and restored. Marta remains a member without business agency. Kenneth is kin outside membership. Elias is half-bound and permanently ineligible for office. June owes him no answer. Their human alliance is revocable, and the unreported severance appears only after the Book One conflict has resolved.
 
 **Result:** Book One arc passes block-level causal re-audit. The subsequent whole-book audit and
-authority synchronization also pass; see `BookOneCausalContinuityFinalAudit.md`.
+authority synchronization also pass; see
+`WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityFinalAudit.md`.

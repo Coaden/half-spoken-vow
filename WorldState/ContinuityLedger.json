@@ -3683,41 +3683,41 @@
     {
       "range": "B1E01-B1E10",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityAudit-B1E01-B1E10.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E01-B1E10.md",
       "manuscript_modified": false
     },
     {
       "range": "B1E11-B1E20",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityAudit-B1E11-B1E20.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E11-B1E20.md",
       "manuscript_modified": false,
       "follows": "B1E01-B1E10"
     },
     {
       "range": "B1E21-B1E30",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityAudit-B1E21-B1E30.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E21-B1E30.md",
       "manuscript_modified": false,
       "follows": "B1E11-B1E20"
     },
     {
       "range": "B1E31-B1E40",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityAudit-B1E31-B1E40.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E31-B1E40.md",
       "manuscript_modified": false,
       "follows": "B1E21-B1E30"
     },
     {
       "range": "B1E41-B1E50",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityAudit-B1E41-B1E50.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E41-B1E50.md",
       "manuscript_modified": false,
       "follows": "B1E31-B1E40"
     },
     {
       "range": "B1E51-B1E60",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityAudit-B1E51-B1E60.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityAudit-B1E51-B1E60.md",
       "manuscript_modified": false,
       "follows": "B1E41-B1E50"
     }
@@ -3726,49 +3726,49 @@
     {
       "range": "B1E01-B1E10",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityRepairAudit-B1E01-B1E10.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E01-B1E10.md",
       "result": "pass",
       "manuscript_modified": true
     },
     {
       "range": "B1E11-B1E20",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityRepairAudit-B1E11-B1E20.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E11-B1E20.md",
       "result": "pass",
       "manuscript_modified": true
     },
     {
       "range": "B1E21-B1E30",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityRepairAudit-B1E21-B1E30.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E21-B1E30.md",
       "result": "pass",
       "manuscript_modified": true
     },
     {
       "range": "B1E31-B1E40",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityRepairAudit-B1E31-B1E40.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E31-B1E40.md",
       "result": "pass",
       "manuscript_modified": true
     },
     {
       "range": "B1E41-B1E50",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityRepairAudit-B1E41-B1E50.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E41-B1E50.md",
       "result": "pass",
       "manuscript_modified": true
     },
     {
       "range": "B1E51-B1E60",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityRepairAudit-B1E51-B1E60.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E51-B1E60.md",
       "result": "pass",
       "manuscript_modified": true
     },
     {
       "range": "B1E01-B1E60",
       "date": "2026-08-21",
-      "path": "WorldState/BookOneCausalContinuityFinalAudit.md",
+      "path": "WorldState/BookOneCausalContinuityAudit/BookOneCausalContinuityFinalAudit.md",
       "result": "pass",
       "manuscript_modified": false
     }
