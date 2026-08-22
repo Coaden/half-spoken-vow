@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serial Architect"
+  short_description: "Build Pocket FM-ready season and episode maps."
+  default_prompt: "Convert the current macro storyline into a canon-faithful short-form serial episode map."

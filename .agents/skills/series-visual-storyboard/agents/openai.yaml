@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Storyboard"
+  short_description: "Build CapCut-ready visual beat sheets and image prompts"
+  default_prompt: "Use $series-visual-storyboard to build a timestamped visual storyboard for this episode."

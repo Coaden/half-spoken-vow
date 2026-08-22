@@ -1,0 +1,4 @@
+interface:
+  display_name: "Episode Writer"
+  short_description: "Draft canon-faithful Pocket FM episodes."
+  default_prompt: "Write the next mapped release episode as polished prose for single-narrator Pocket FM text upload."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Render"
+  short_description: "Render mapped stills into CapCut-ready MP4s"
+  default_prompt: "Use $series-visual-render to render this mapped episode into a CapCut-ready MP4."

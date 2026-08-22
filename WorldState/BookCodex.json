@@ -1,0 +1,693 @@
+{
+  "world_state_version": "3.0.0",
+  "canon_status": "Book One manuscript continuity repair and final re-audit complete, 2026-08-21. Clauses One through Three, the immutable-Articles rules, Clause Three procedure, Tess-Kearse invocation chain, three vow states, June's transformation history, and the Book One exit state are authoritative.",
+  "last_updated": "2026-08-21",
+  "draft_policy": "Live WorldState files override drafts, prior chats, and pasted copies. Superseded facts are never preserved merely because an older draft contains them.",
+  "authority": {
+    "core_canon": "WorldState/BookCodex.json",
+    "macro_storyline": "WorldState/Book-One-Storyline.md",
+    "episode_map": "WorldState/BookOneEpisodeMap.json",
+    "audio_production": "WorldState/AudioProductionBible.json",
+    "visual_bible": "WorldState/VisualBible.md",
+    "continuity_ledger": "WorldState/ContinuityLedger.json",
+    "changelog": "WorldState/CHANGELOG.md",
+    "supporting_research": [
+      "docs/locked-decisions.md",
+      "docs/sex-sensuallity-policy.md",
+      "docs/genre-research-notes.md",
+      "docs/originality-blacklist.md"
+    ],
+    "writing_style": "WorldState/WritingStyle.md",
+    "completed_arcs": [
+      {
+        "arc": "Book One",
+        "macro_storyline": "WorldState/Book-One-Storyline.md",
+        "episode_map": "WorldState/BookOneEpisodeMap.json",
+        "status": "manuscript complete and continuity-verified 2026-08-21"
+      }
+    ],
+    "_pointer_note": "macro_storyline and episode_map point at the current arc only. See file_conventions.authority_pointer_rule."
+  },
+  "series": {
+    "title": "The Half-Spoken Vow",
+    "title_status": "working",
+    "format": "serialized short-form audio fiction",
+    "primary_platform": "Pocket FM",
+    "secondary_distribution": "later options only — visual episodes, ebook, audiobook retail. Nothing planned or committed.",
+    "setting": "Pittsburgh, present day — supernatural lineages operating behind ordinary legal and civic institutions",
+    "genre": [
+      "romantasy",
+      "supernatural political drama",
+      "contemporary gothic with a working-class spine"
+    ],
+    "premise": "June Havlik transcribes depositions for a living, which means she is paid to notice exactly how people word things. She is nine minutes into an ordinary probate session when a witness reads a hundred-and-fifty-year-old marriage agreement into the record and her own name comes out of his mouth as the eighth bride owed under it. Before the hour is out a stranger walks in from a windowless corridor, something in her chest turns toward him before she has his name, and instead of reading the clause that would take her life apart he speaks half a binding vow at her in front of witnesses — an act that strips his own protections, buys her time she never asked for, and makes her the most legally valuable person in the county. She has not answered. Until she does, the agreement's nine original clauses come due on her one at a time. Later brides generated interpretations, constructions, precedents, depositions, declarations, and execution history around those clauses, leaving damage and records June can research without changing the original Articles.",
+    "season_one_a_plot": "June must survive, satisfy, or defeat the first tranche of the Articles' nine clauses without answering the vow — and decide whether the man who half-bound himself to her was rescuing her or seizing her, a question he cannot answer honestly without losing everything.",
+    "series_promise": "Every episode, a woman with no supernatural advantage finds the exact wording that turns someone else's rule against them — and pays for it. The promise is not that she wins; it is that she is never merely acted upon, and that the price is always named out loud before it is charged."
+  },
+  "platform_serial_design": {
+    "planning_status": "editorial planning targets — recalibrate after a timed pilot episode with the selected narrator",
+    "macro_chapters": 24,
+    "planned_book_one_release_episodes": 60,
+    "acceptable_episode_count_range": [
+      48,
+      72
+    ],
+    "target_minutes_range": [
+      10,
+      12
+    ],
+    "target_spoken_words_range": [
+      1650,
+      1800
+    ],
+    "hard_minimum_spoken_words": 1000,
+    "opening_pressure_seconds_range": [
+      30,
+      60
+    ],
+    "typical_foreground_voice_range": [
+      2,
+      6
+    ],
+    "mini_arc_episode_range": [
+      4,
+      6
+    ],
+    "acquisition_runway_episodes": 12,
+    "paywall_policy": "Do not hard-code a paywall location until current platform terms are known.",
+    "episode_contract": [
+      "Cold open with concrete pressure in the first 30 to 60 seconds.",
+      "One dominant episode question, understandable without a screen.",
+      "Active conflict or choice rather than recap.",
+      "One concrete payoff that changes the situation or understanding.",
+      "A final turn that grows from this episode's events.",
+      "At most six foreground speaking voices. Two or three is preferred whenever the scene's work is between two people."
+    ],
+    "derived_craft_targets": {
+      "episode_unit": "One scene, not one chapter. 1,650-1,800 words, three to four beats, one location, one time of day, at most one location change.",
+      "beats_per_episode": "A want stated aloud; an obstacle that costs something countable; a turn that changes what the next episode is about.",
+      "first_pressure": "Concrete pressure inside the first 40 spoken words. No prologue, no weather, no cosmology, no room description.",
+      "new_terms": "At most one new coined term per episode, never in the same episode as a new named character.",
+      "countables": "Every episode contains at least one number, price, deadline, or count a listener can repeat.",
+      "interiority_budget": "About 9 percent of an episode, in three or four hits of 15 to 40 words, each triggered by something happening in the room. No standalone description paragraphs.",
+      "end_hook_distribution_per_12": "4 hard event cliffs, 5 decision buttons, 2 dread-deferrals, 1 warmth beat placed immediately before the arc's worst turn.",
+      "recap_method": "Re-quote a standing threat or obligation verbatim once per episode in a character's own words. Never summarize.",
+      "end_hook_floor": "Every episode ends on a state change — a status, standing, obligation, or fact that is different than it was. Tonal variety is retained (hard cliffs, decision buttons, dread-deferrals, one warmth beat per arc) but no episode may end without something having irreversibly moved.",
+      "cold_open_rule": "Open on concrete danger or pressure, never on longing, recap, or routine. Emotion arrives because the danger moved, not before it."
+    },
+    "foreground_voice_policy": "Six foreground speaking voices is a hard ceiling, not a target. Four to six is typical for a public or procedural episode — a Hall session, a hearing, a negotiation with observers. Two- and three-hander episodes are deliberate and correct for intimacy, confrontation, and interrogation beats, and must never be padded with bystanders to reach four. With one narrator performing everyone, two speaking characters is the clearest configuration available and should be used whenever the scene's work is between two people.",
+    "contest_word_target": "Contest build. Sixty episodes averaging 1,700 spoken words yields roughly 102,000 words, clearing the Pocket FM Fated Mate contest requirement of 100,000 published words with the existing structure and no added episodes. At 1,500 words the same map yields 90,000 and fails. Write to the band; never pad to reach the number."
+  },
+  "setting": {
+    "primary_location": {
+      "name": "Pittsburgh",
+      "name_status": "locked",
+      "description": "Three rivers, four hundred bridges, and two supernatural lineages that have spent a century and a half pretending to be paperwork.",
+      "condition": "Functional and eroding. The mills are gone, the money that outlived them is not, and both lineages are quietly short of the one thing they cannot manufacture.",
+      "context": "The ordinary modern world is materially consequential and cannot be magicked away: rent, wages, shifts, hospitals, police, courts, filings, phones, transit, and reputation all constrain every supernatural move."
+    },
+    "key_places": [
+      {
+        "name": "the Hall on Cotter Street",
+        "purpose": "Local Nine's lodge. Dues are collected here, the moon roster is posted here, and membership in good standing is granted and revoked here. Every wolf-side political beat routes through one room with folding chairs and bad coffee."
+      },
+      {
+        "name": "the Marrow Trust offices, Fourth Avenue",
+        "purpose": "A law-office floor downtown where clauses are read, executed, and recorded. Trust-side authority is exercised as document work, in daylight hours the trustees themselves cannot attend."
+      },
+      {
+        "name": "June's apartment, Polish Hill",
+        "purpose": "Practical pressure and the threshold rule in one location. Her rent, her lease, her landlord, and the only door in the city she personally controls."
+      },
+      {
+        "name": "the spans",
+        "purpose": "Any bridge. Neutral ground by ancient agreement, because no bank owns a bridge. Negotiations, exchanges, and ambushes-that-must-pretend-to-be-meetings happen mid-river."
+      },
+      {
+        "name": "Allegheny Cemetery",
+        "purpose": "Where the previous brides are buried, and where the Trust's own copies of the Articles are archived in a family vault. Research, grief, and trespass in one place."
+      },
+      {
+        "name": "the deposition suite, Grant Street",
+        "purpose": "June's workplace. A rented room where ordinary people are recorded saying binding things, which is both her income and her expertise. The series' thesis has a day job."
+      },
+      {
+        "name": "the Sewickley house",
+        "purpose": "The Trust residence June is expected to occupy as a married woman. Beautiful, staffed, and functionally a jurisdiction she would be surrendering her own threshold to enter."
+      },
+      {
+        "name": "the tubes",
+        "purpose": "The river tunnels. Sunless, therefore trustee-passable by day, and enclosed, therefore hated by wolves. The one geography where the two lineages' advantages invert."
+      }
+    ]
+  },
+  "canon_rules": {
+    "_note": "One short absolute sentence per rule. Every skill checks these before writing.",
+    "bond_is_real": "The attachment between two people is objectively real and arrives involuntarily; its physical and emotional symptoms are facts nobody can argue away.",
+    "bond_is_incomplete": "An attachment does not complete without both people freely and knowingly speaking their halves of the vow before an accepted witness. Before completion, refusal is absolute: either party may withhold their half indefinitely, for any reason or none, and no pressure, symptom, clause, or debt can supply it for them.",
+    "symptoms_are_never_consent": "No symptom, however severe, constitutes consent, entitles anyone to anything, or excuses any act.",
+    "law_is_interpretation": "Everything the lineages claim an attachment obliges is law, custom, religion, or propaganda, and may simply be wrong.",
+    "vow_asymmetry": "Speaking one half of the vow binds only the speaker, stripping that person's protections and exposing them until the other freely answers or the speaker formally abandons the half-vow.",
+    "vow_states": "The vow has exactly three legal states: abandoned, in which the speaker has formally withdrawn the recorded half and paid the price; half-bound, in which the speaker remains bound and exposed while the other party remains entirely free; and completed, in which both valid halves have been spoken and the five permanent facts attach to both parties.",
+    "formal_abandonment": "Before completion, only the speaker may formally abandon a spoken half. Abandonment ends that half-vow and its exposure but does not sever the involuntary attachment. Its price is excommunication: permanent removal from the speaker's lineage record, including every lineage office, succession, institutional protection, and enforcement standing. It does not erase ordinary civil identity or property held in an individual civil capacity.",
+    "sun": "Direct sunlight destroys a trustee. There is no exception, no tolerance earned with age, and no version of this granted as a reward.",
+    "moon": "Members change on the three nights bracketing the full moon, involuntarily, on a public calendar. There is no exemption and no suppressant that works, and the cost is economic before it is dramatic: lost wages, unholdable jobs, and a body that must be safely housed on schedule.",
+    "threshold": "A trustee cannot enter a dwelling without an invitation from someone who lives there, and that invitation is revocable at any time by the person who gave it.",
+    "power_slots": "No character gains a capability without losing one. Abilities are traded, never accumulated.",
+    "one_title": "Each character holds one title at a time. Titles may be lost or exchanged, never stacked.",
+    "escalation_axes": "Escalate proximity, intimacy of betrayal, publicity, irreversibility, and moral compromise. Never escalate raw threat level or power.",
+    "lineage_swap_test": "If a major supernatural scene would play essentially the same with the member and trustee roles exchanged — or with the wolf side replaced by an ordinary union, family, or congregation — the ecology has collapsed and the scene must be rewritten.",
+    "protagonist_limits": "June never acquires supernatural combat power, and never gains a capability that lets her win a fight. Her instruments are language, records, procedure, witnesses, and other people's rules. What she does acquire across the series is fluency in the borne record — learning to read scent, fear, illness, recent violence and kinship as precisely as she reads a transcript. That is a literacy she always possessed unknowingly, not a power granted by the bond, and it makes her bilingual in the world's two record systems rather than dangerous in a physical one.",
+    "never_villains": "Marta Havlik, Elias Marrow, Cyd Toomey, and Milo Havlik are never secretly villains. Their opposition comes from competing duties, and it must stay motivated.",
+    "consent_in_intimacy": "Consent is affirmative, audible, and revocable in every intimate scene, and desire is never manufactured by the bond as a device that permits a scene.",
+    "heat": "Live in charged non-contact, peak at act-present-anatomy-displaced, transition through the act itself rather than narrating it. See docs/sex-sensuallity-policy.md, which is authoritative.",
+    "closure": "Close three threads for every one opened. Never carry more than seven open threads, of which at most three are protected mysteries.",
+    "finales": "A finale introduces no new major mystery, antagonist, or story engine. It closes the ledger, and may end on one small forward-looking sting.",
+    "irreversible_loss": "Each season delivers at least one major irreversible loss or consequence. Death may satisfy this and is never scheduled or quota-based.",
+    "tone": "Tonal floor: procedural, wry, materially specific — never nihilistic, never grimdark for its own sake, never cruel for decoration. Tonal ceiling: genuinely romantic and occasionally very funny — never camp, never winking, never a joke at a character's expense during their worst moment.",
+    "audio": "Every essential reveal must be sound-native. No silent visual carries a hook alone.",
+    "completion_is_irrevocable": "A completed bond can never be dissolved, by anyone, by any means. There is no annulment, no severance, no cutter who can reach it, and no instrument of erasure in either register. This is why the conditions for valid consent are strict, and why nobody may be hurried toward it.",
+    "what_permanence_means": "Exactly five facts become permanent, and no others: each always knows the other's direction and rough distance; each knows when the other is dying; the mortal party stops aging from that moment and remains entirely killable; neither can ever form or complete another attachment; and both are permanently recorded as bonded in both registers, which confers standing that cannot be struck.",
+    "what_permanence_does_not_mean": "A completed bond guarantees no love, obedience, fidelity, compatibility, political allegiance, proximity, or happiness, and grants no telepathy, shared emotion, or compulsion. Bonded people may separate, betray each other, become enemies, or spend a century not speaking. The permanence creates story; it never settles one.",
+    "completion_costs_both": "Completion permanently forfeits both parties' capacity to swear any other binding oath, because no one may stand in two conflicting records. A bonded trustee can never hold an office requiring an oath; a bonded member can never be initiated.",
+    "valid_consent_conditions": "Completion is void unless both halves are spoken freely, knowingly, before an accepted witness, separated by an interval, with each speaker able to state the five permanent facts in their own words and the witness confirming they did. Void if either party is compelled, currently exposed and compellable, intoxicated, dying, unaware of the permanence, or has a clause executing against them at the time.",
+    "records_bind": "No supernatural obligation takes hold until it enters a record, and the two lineages disagree in good faith about what a record is: trustees are bound by writing, members by what is borne and witnessed. Tampering with either kind is this world's defining crime. This governs lineage-enforceable obligation only — it never makes an ordinary promise, wrong, or refusal meaningless, and a refusal never requires a record to be absolute.",
+    "borne_record": "Members smell fear, arousal, illness, recent violence, and blood kinship. Sustained face-to-face lying is effectively impossible among them, and no filing can alter what a body records.",
+    "obligation_is_named_aloud": "A supernatural obligation exists only once it is named aloud before witnesses, and is discharged only by performance of what was named. This applies to lineage-enforceable obligations only; ordinary promises, debts, crimes, affection, and human legal duties are fully real and binding without any record.",
+    "awakening": "June's transformation is becoming able to read both records. It is earned by practice, costs her the ability to be comfortable around people she loves, and never substitutes for her professional competence. No hidden bloodline, no sealed power, no prophecy."
+  },
+  "primary_characters": {
+    "june": {
+      "role": "Protagonist. Deposition transcriptionist; a wolf by blood who was never initiated into Local Nine; the bride named in the Articles.",
+      "visual_identity": "Thirty-one. Five foot four, solid through the shoulders from a childhood of hauling, dark brown hair she cuts herself and keeps clipped back, brown eyes, a chipped left incisor she never had fixed. Dresses for a job that requires her to be invisible in a room: grey, navy, flat shoes, a cardigan with a stretched pocket where she keeps her recorder.",
+      "personality": "Precise, funny in a low register, allergic to being managed. Listens more than she speaks and remembers wording exactly. Treats warmth as a thing that has to be earned twice.",
+      "core_misbelief": "That if she reads the terms carefully enough she can get free without owing anyone — that every relationship is a contract to be escaped rather than a debt worth carrying.",
+      "core_conflict": "The only instrument that can save her is language, and the vow that would end her danger is a sentence she refuses to say.",
+      "personal_stake": "Her apartment, her contracts, her name on a lease, and the last person alive who remembers her mother. She is nine hundred dollars from losing the first three.",
+      "address_policy": {
+        "canonical_and_first_formal_reference": "June Havlik",
+        "ordinary_narration": "June",
+        "formal_address": "Miss Havlik, and Mrs. Marrow by anyone trying to hurt her"
+      },
+      "relationships": {
+        "elias": "He spoke half a vow at her without asking and calls it protection. She cannot decide whether that is the kindest or most violent thing anyone has done to her, and he will not say which he meant.",
+        "marta": "Her aunt let her mother be exiled and is now trading June to keep the Local's charter. June wants an apology she will never get and help she cannot refuse.",
+        "constance": "The woman who wrote the clauses that will kill her, who treats her with genuine, unbearable courtesy.",
+        "cyd": "Her only unconditional friendship, and her entire income. If June's trouble reaches the agency, she loses both at once.",
+        "tess": "A stranger who knows more about June's situation than June does, and wants something from her that may cost her life.",
+        "milo": "Her cousin, initiated where she was not. He has the standing she was denied and none of the nerve, and both of them know it."
+      }
+    },
+    "elias": {
+      "role": "Deuteragonist and secondary point of view. Trustee and instrument of the Marrow Trust — the officer who reads clauses into effect and enforces them.",
+      "visual_identity": "Presents as a man of about thirty-four; turned in 1868 at thirty-one, so one hundred fifty-eight years old. Tall, narrow, black hair going deliberately un-styled, grey eyes, a mill burn scar across the back of his right hand that he got while still alive and has never explained. Wears the good suit of a man who owns four identical ones. Moves like someone conserving something.",
+      "personality": "Courteous to the point of menace, literal, dryly funny when off duty, which is almost never. Answers the question asked and not the one meant.",
+      "core_misbelief": "That the Articles are the only thing preventing a war, and must therefore be obeyed even when they are monstrous — that a rule kept faithfully cannot be a weapon.",
+      "core_conflict": "He has executed clauses on four women. Speaking half the vow was the first time in a century he chose a person over the document, and it has stripped his standing without saving her.",
+      "personal_stake": "His protections, his office, and the only continuity he has left. Exposed, he can be compelled, sued, and destroyed by any party to the Articles — and so can she, through him.",
+      "address_policy": {
+        "canonical_and_first_formal_reference": "Elias Marrow",
+        "ordinary_narration": "Elias",
+        "formal_address": "Mr. Marrow, and trustee in Trust business"
+      },
+      "relationships": {
+        "june": "He owes her the truth about why he spoke and cannot give it without handing her a weapon that would destroy him.",
+        "constance": "She made him, trained him, and is the only person he has never once refused. She is preparing to spend him.",
+        "tess": "He executed the clause that killed her sister. He remembers the wording. So does she.",
+        "marta": "Two enforcers of two incompatible codes who respect each other and will not help each other."
+      }
+    },
+    "marta": {
+      "role": "Business agent of Local Nine. The wolf side's elected authority, its negotiator, and the keeper of its roster.",
+      "visual_identity": "Sixty-four. Broad, grey braid pinned flat, reading glasses on a cord, hands wrecked by forty years of real work. Wears a Local Nine windbreaker in every weather. Her voice carries across a hall without rising.",
+      "personality": "Pragmatic, unsentimental, absolutely loyal to the collective and to nothing smaller. Says the hard thing first so nobody has to wait for it.",
+      "core_misbelief": "That protecting the many always justifies spending the one, and that she is the person qualified to decide which one.",
+      "core_conflict": "The Local's charter expires unless the Articles are honored. Honoring them means handing over her sister's daughter.",
+      "personal_stake": "Three hundred and eleven members' standing, benefits, and burial fund — and the last thing her sister ever asked of her.",
+      "address_policy": {
+        "canonical_and_first_formal_reference": "Marta Havlik",
+        "ordinary_narration": "Marta",
+        "formal_address": "the business agent, and Sister Havlik in Hall session"
+      },
+      "relationships": {
+        "june": "She owes June's mother a debt she intends to default on for good reasons.",
+        "milo": "She is grooming him to replace her and knows he is not ready.",
+        "elias": "The man across the table for thirty years, whose exposure she could exploit and has not."
+      }
+    },
+    "constance": {
+      "role": "Senior trustee of the Marrow Trust. Drafted the Articles. The Trust's memory and its will.",
+      "visual_identity": "Presents as a woman of about sixty and does so on purpose, because authority reads better on grey. Turned in 1631 at forty-four, so three hundred ninety-five years old. Small, upright, silver hair in a low knot, half-glasses she does not need, a wedding ring from a marriage nobody living remembers.",
+      "personality": "Exquisitely courteous, patient on a scale that frightens people, and entirely without cruelty — which is what makes her decisions unbearable. Never raises her voice because she has never needed to.",
+      "core_misbelief": "That a document she wrote in good faith cannot become an instrument of harm, because she can still remember why every clause was necessary.",
+      "core_conflict": "The Trust cannot survive the century without a completed attachment, and the only one available belongs to the officer she would have to destroy to claim it.",
+      "personal_stake": "Four centuries of continuity, and the possibility that the thing she built to prevent a slaughter has been quietly causing one.",
+      "address_policy": {
+        "canonical_and_first_formal_reference": "Constance Marrow",
+        "ordinary_narration": "Constance",
+        "formal_address": "Mrs. Marrow, and senior trustee in Trust business"
+      },
+      "relationships": {
+        "elias": "Her creation and her successor, whom she is preparing to spend and genuinely loves.",
+        "june": "A young woman she treats with real respect while arranging her death, and who is the first person in a century to read her own document back to her correctly."
+      }
+    },
+    "cyd": {
+      "role": "Human. Owns the transcription agency that subcontracts June, and is her closest friend. Comic register and material competence in one person.",
+      "visual_identity": "Forty-one. Short, wide-shouldered, home-dyed red hair, glasses pushed up on her head and lost eleven times a day, a permanent coffee in a chipped mug she brings to depositions. Dresses like a woman who gave up on impressing lawyers in 2014.",
+      "personality": "Fast, profane, competent, and the only person who talks to June without an agenda. Solves practical problems in one phone call and refuses all credit.",
+      "core_misbelief": "That she can keep her people safe by keeping the business small and boring, and that trouble can be declined.",
+      "core_conflict": "Her agency's contracts depend on a reputation June's situation is actively destroying, and she will not drop June, so she is going to lose something.",
+      "personal_stake": "Nine employees, a lease, and a client list. She has no supernatural protection of any kind and knows it.",
+      "address_policy": {
+        "canonical_and_first_formal_reference": "Cyd Toomey",
+        "ordinary_narration": "Cyd",
+        "formal_address": "Ms. Toomey"
+      },
+      "relationships": {
+        "june": "The one relationship in June's life that is not a contract, which is exactly why June keeps lying to her.",
+        "milo": "Hired him as a favor and now cannot fire him."
+      }
+    },
+    "tess": {
+      "role": "Antagonist-ally. Sister of the seventh bride, who died under a clause. Knows the Articles better than anyone outside the Trust.",
+      "visual_identity": "Thirty-eight. Lean, close-cropped bleached hair grown out dark at the roots, a hearing aid in the left ear she taps when thinking, work boots and a canvas jacket with too many pockets. Never sits with her back to a room.",
+      "personality": "Direct to the point of rudeness, patient about long plans, and completely uninterested in being liked. Tells the truth as a tactic.",
+      "core_misbelief": "That the only justice available is destroying the document, and that anyone who negotiates with it is complicit.",
+      "core_conflict": "She needs June alive to break the Articles and needs June to take a risk that will probably kill her, and she is honest about both.",
+      "personal_stake": "Her sister's name, and a case she has spent eleven years assembling that requires a living bride to file.",
+      "address_policy": {
+        "canonical_and_first_formal_reference": "Tess Renn",
+        "ordinary_narration": "Tess",
+        "formal_address": "Ms. Renn"
+      },
+      "relationships": {
+        "june": "Wants to use her, says so out loud, and is the only person offering her a way to win.",
+        "elias": "The man who read her sister's death into the record, whom she needs as a witness."
+      }
+    },
+    "milo": {
+      "role": "June's cousin. Initiated member of Local Nine, twenty-four, working a transcription job he is bad at. The Local's future and its weakest point.",
+      "visual_identity": "Twenty-four. Tall and not yet filled out, sandy hair, a jaw that bruises easily, Local Nine jacket two sizes too big because it was his father's. Bites his cuticles. Cannot hold still.",
+      "personality": "Eager, guileless, indiscreet in a way that is sometimes catastrophic and sometimes the only reason anyone learns anything. Wants to be brave in front of people who have seen him fail.",
+      "core_misbelief": "That standing is something granted to him rather than something he has to be able to carry.",
+      "core_conflict": "He has the initiation June was denied and would trade it to her in a heartbeat, which is the one thing that would destroy them both.",
+      "personal_stake": "His membership, his mother's pension through the Hall, and his cousin, in roughly that order until the order changes.",
+      "address_policy": {
+        "canonical_and_first_formal_reference": "Milo Havlik",
+        "ordinary_narration": "Milo",
+        "formal_address": "Brother Havlik in Hall session"
+      },
+      "relationships": {
+        "june": "Worships her, endangers her constantly, and is the only family who visits.",
+        "marta": "Being groomed by an aunt who does not believe in him."
+      }
+    }
+  },
+  "recurring_characters": {
+    "aloysius_pratt": {
+      "role": "The Trust's daylight man. Human attorney of record who files, serves, and appears in court during the hours trustees cannot.",
+      "personality": "Fussy, bloodless, proud of his craft. Keeps immaculate records and takes genuine pleasure in a well-drafted instrument.",
+      "core_conflict": "He wants to be made a trustee and has wanted it for twenty-two years. Nobody has told him the Trust never elevates its daylight men, and he has begun to suspect."
+    },
+    "yolanda_bright": {
+      "role": "Recording secretary of Local Nine. Keeps the roster, the minutes, and the moon calendar.",
+      "personality": "Warm, gossipy, and the single best-informed person in the wolf side of the city. Feeds everyone and remembers everything.",
+      "core_conflict": "Her minutes are the only proof of what the Hall actually voted, and both Marta and the Trust have asked her to adjust them. She has refused once and is out of leverage."
+    },
+    "dr_owen_shaw": {
+      "role": "Emergency physician at a city hospital who has quietly treated wolf injuries for eleven years without ever being told what he is treating.",
+      "personality": "Exhausted, funny, incurious on purpose. Has built an elaborate personal fiction to explain what he sees.",
+      "core_conflict": "He is one honest question away from losing the deniability that protects his license, and June keeps needing him."
+    },
+    "father_bram_delisle": {
+      "role": "Parish priest whose church sits on a span-adjacent lot, and by long custom the only witness both lineages accept for a vow.",
+      "personality": "Tired, kind, procedurally rigid. Believes the ritual matters more than his own opinion of it.",
+      "core_conflict": "He has witnessed six of these marriages and buried four of the brides. Witnessing is his duty and he has come to believe it makes him an accomplice."
+    },
+    "vera_odell": {
+      "role": "A cutter. Severs attachments for money and sells what she takes.",
+      "personality": "Cheerful, professional, entirely transactional. Quotes prices unprompted and honors them.",
+      "core_conflict": "She is the only person who can free June from an incomplete attachment. She takes payment in deeds rather than money for a reason specific to her trade: cutting is a crime against a record, so no court in either system will enforce a cutter's fee. A deed she can watch being performed is the only security available to her. Every deed she names costs someone else something June would not choose to spend."
+    },
+    "lionel_kearse": {
+      "role": "Trustee of a rival trust across the river, and a party to the Articles with standing to enforce them.",
+      "personality": "Expansive, hospitable, genuinely charming, and the most dangerous host in the city.",
+      "core_conflict": "He needs the Marrow Trust to fail and June to survive, which makes him her most useful ally and a man who will spend her the moment those two needs diverge."
+    },
+    "nadia_kovach": {
+      "role": "Steward of the Sewickley house. Human, third generation in the Trust's service.",
+      "personality": "Impeccable, unreadable, quietly proprietary about the house. Says less than she knows by a wide margin.",
+      "core_conflict": "She has served four brides and liked two of them. She keeps the house's true records and has not decided who she will show them to."
+    },
+    "kenneth_boyle": {
+      "role": "Hall member, welder, June's mother's oldest friend, and the only person in Local Nine who voted against handing June over.",
+      "personality": "Slow-spoken, stubborn, physically formidable and reluctant about it. Keeps his word past the point of sense.",
+      "core_conflict": "He promised June's mother he would look after her and has been outvoted. Honoring the promise means breaking with the Local that is his entire life."
+    },
+    "sondra_pell": {
+      "role": "Court reporter, Cyd's other senior contractor, and June's professional rival for the good assignments.",
+      "personality": "Sharp, ambitious, scrupulously fair, and openly irritated by June's mess.",
+      "core_conflict": "She needs the work June keeps dropping and does not want to profit from a friend's catastrophe, and she is going to have to choose."
+    }
+  },
+  "story_engines": {
+    "_note": "Three independent machines plus a practical-pressure layer. No engine may supply more than half a season's episodes.",
+    "the_articles": {
+      "description": "A political and legal engine. The marriage Articles between Local Nine and the Marrow Trust were executed in 1871 with nine numbered clauses, all present from the beginning. They come due in sequence on whoever is named bride. Later brides generated interpretations, constructions, precedents, depositions, declarations, and execution history around the original clauses. Those supplementary records can be researched, invoked, distinguished, or overturned, but cannot amend the Articles. The antagonist is a document, and it can be read aloud.",
+      "known_facts": [
+        "There are exactly nine clauses. The number is stated in episode one and never changes.",
+        "All nine clauses existed in the Articles as executed in 1871. Supplementary execution records cannot add, remove, reorder, rewrite, or amend a clause.",
+        "Later brides created interpretations, constructions, precedents, depositions, statements, verbal declarations, and execution history preserved by the Trust and Local Nine; these records govern or contest application without changing the original text.",
+        "Seven women have been named bride since 1871. Four died under clauses. Two were released. One is unaccounted for.",
+        "The Trust holds the sealed original; Local Nine holds a certified copy; a third party to the agreement holds a copy nobody has read in ninety years.",
+        "A clause takes effect when read into a record by a trustee before an accepted witness.",
+        "Clauses may be satisfied, waived by all parties, or defeated on their own terms — but never simply ignored."
+        ,"Clause Three's authentic 1871 term is nine calendar days. The parish counterpart was later altered to read nineteen without amending the shared instrument."
+        ,"A timely challenge to a material discrepancy among the three counterparts imposes a mandatory ten-calendar-day stay of the disputed consequence. The nine-day term plus that stay produces nineteen days in practice without changing the original clause."
+        ,"Tess Renn lacks standing to invoke Clause Three. She persuades Lionel Kearse to do so by showing him how activation and forfeiture can weaken the Marrow Trust; he invokes knowingly for that institutional purpose while she seeks the living injury her case requires."
+      ],
+      "information_limits": [
+        "The Articles cannot say why they were written, only what they require.",
+        "No clause can be located in advance of its due date; the sequence is known, the timing is not.",
+        "The document cannot compel a vow. It can only make refusing one expensive.",
+        "It never reveals who the third party is, or what that party was promised."
+      ],
+      "escalation": [
+        "Stage one — a clause costs her money, standing, or time, and she satisfies it by finding the wording that permits a cheaper compliance.",
+        "Stage two — a clause costs someone she loves, and satisfying it requires her to spend a person rather than a resource.",
+        "Stage three — a clause is invoked against her by a party she thought was neutral, revealing that the document has more holders than she was told.",
+        "Stage four — she defeats a clause on its own terms and discovers that defeating it triggers the next one early, so competence itself accelerates the danger.",
+        "Accountable use — every clause invoked is struck from the sequence permanently and recorded in the ledger. The count only goes down, publicly, and nine is nine forever."
+      ]
+    },
+    "the_half_spoken_vow": {
+      "description": "The intimate engine. Elias has spoken his half; June has not answered. His half binds only him, so he is exposed and she is not, and the imbalance itself generates consequence. Critically, the intervening episodes deliver new consequences created by the unanswered vow — shifting alliances, protections, standing, enemies, and family pressure — rather than repeating the question of whether she will answer.",
+      "known_facts": [
+        "A half-spoken vow strips the speaker's protections until it is answered or formally abandoned.",
+        "An exposed trustee can be compelled, sued, and claimed by any party with standing.",
+        "The attachment between them is real, involuntary, and independently observable by others.",
+        "The vow is designed to be spoken in two parts separated by an interval, so that consent is deliberate. Elias did not exploit a loophole; he used the intended form at the wrong moment.",
+        "Completion is irrevocable and makes exactly five facts permanent. Abandonment before completion is possible and carries its own stated price.",
+        "Completion would permanently bar June from ever being initiated into Local Nine, because no one may stand in two conflicting records. Her two goals are mutually exclusive."
+      ],
+      "information_limits": [
+        "The attachment cannot tell either of them what the other feels, only that the other is there.",
+        "It cannot reveal his motive for speaking, which is the season's central withheld thing.",
+        "It confers no combat power, no telepathy, and no ability to read intent.",
+        "It cannot be completed accidentally, in sleep, under compulsion, by proxy, or in the same breath."
+      ],
+      "escalation": [
+        "Stage one — his exposure costs him professionally, and she benefits from protections she did not ask for and cannot refuse cleanly.",
+        "Stage two — third parties begin acting on the vow: alliances re-form around her as an asset, and people who were indifferent become interested.",
+        "Stage three — she learns a fact about why he spoke that makes the kindest reading impossible and the cruelest reading unproven.",
+        "Stage four — she is offered a way to answer that would save him and forfeit something specific of hers, and the offer is legitimate.",
+        "Accountable use — every escalation of the vow changes a documented legal or social status, recorded in the ledger, and no beat may consist solely of the question being re-asked."
+      ]
+    },
+    "the_cut_trade": {
+      "description": "The mounting external threat. There is a market in severed attachments. A cutter can cut a bond and sell what it was worth, and the buyers are assembling something out of the purchases. Meanwhile true attachments are forming less often each generation — which is why both lineages arrange marriages at all, and why a real one is worth a war. The decline is measurable, monotonic, and never reaches zero.",
+      "known_facts": [
+        "Cutting severs an incomplete attachment. It is permanent and survivable: the person cut remembers loving and cannot feel it.",
+        "A completed bond cannot be cut. It exists in both registers and in a living witness's memory, and no instrument reaches it. This is precisely why a completed bond is worth a war and why the Trust needs one.",
+        "Cutters price their work in deeds rather than money, because a cut is a crime against a record and no institution in either system will enforce a cutter's fee — a deed performed in view is the only security they can get. They name the price in full before the work and honor their quotes exactly.",
+        "Attachments are recorded in both registers, so a cut leaves a documentary hole someone must explain.",
+        "Fewer attachments are registered each decade. Local Nine has registered two in nineteen years, and neither completed.",
+        "Someone is buying, at prices that make no economic sense unless the buyer is accumulating toward a purpose."
+      ],
+      "information_limits": [
+        "No character can learn what the buyers are building before Season Three.",
+        "The registers record that an attachment existed, never what it felt like or who caused its end.",
+        "Nobody can determine whether attachments are genuinely dying out or being deliberately suppressed.",
+        "Cutting cannot be reversed, and no character may discover a reversal."
+      ],
+      "escalation": [
+        "Stage one — a cut is discovered locally and treated as a private tragedy, and the price the cutter charged turns out to have been paid by an innocent third party.",
+        "Stage two — cutting is revealed as an industry with brokers, prices, and a waiting list, and June is quoted a price for her own release.",
+        "Stage three — a lineage institution is found to have sold its own members' attachments to cover an obligation.",
+        "Stage four — the shortage becomes public and both lineages begin competing openly for the few remaining true attachments, which makes June a contested asset rather than a contract obligation.",
+        "Accountable use — each escalation is attached to a named person's irreversible loss and to a countable change in a register, never to an abstract worsening."
+      ]
+    },
+    "practical_pressure": "Money, work, and shelter, at all times and in every arc. June is a subcontractor with no benefits, a month-to-month lease, a car that fails inspection, and an income that depends on a reputation her supernatural trouble is actively destroying. Every supernatural escalation must also cost her rent, wages, sleep, a client, a shift, her lease, her car, her phone, her standing at the agency, or her ability to move around the city — and the supernatural world cannot make any of that go away, because rent is not a thing a trust can enchant."
+  },
+  "book_one": {
+    "macro_storyline": "WorldState/Book-One-Storyline.md",
+    "episode_map": "WorldState/BookOneEpisodeMap.json",
+    "macro_status": "locked — 24 chapters; five movements; manuscript repaired and thread ledger reconciled",
+    "episode_map_status": "locked — 60 episodes; manuscript complete and continuity-verified",
+    "resolved_by_finale": [
+      "Whether June answers the vow, compels or seeks Elias's abandonment, or chooses a third outcome — settled for Book One by her explicit election to preserve the half-bound state.",
+      "Elias's true reason for speaking first, delivered by his own mouth rather than by inference.",
+      "The first three clauses of the Articles, lawfully defeated and permanently barred from execution while all nine original clauses remain visible.",
+      "Whether Local Nine keeps its charter, and what Marta spent to decide it.",
+      "The identity of the third party holding the unread copy of the Articles.",
+      "Tess's eleven-year case: filed or dead."
+    ],
+    "preserved_mysteries": [
+      "Why June's mother left the Hall, and what she took with her.",
+      "Who is buying cut attachments, and what they are assembling.",
+      "Whether attachments are genuinely dying out or are being suppressed."
+    ],
+    "arc_status": "Book One is a complete book. It closes its own central question at B1E60 and is publishable standalone."
+  },
+  "production_bible": {
+    "path": "WorldState/AudioProductionBible.json",
+    "voice_lock_status": "not selected",
+    "default_tts_model": "not applicable — Pocket FM generates narration from uploaded text",
+    "reason": "The Pocket FM master is a single-narrator text upload. No external multi-voice edition is planned, so no TTS model is locked and no voices are cast. The author selects the platform narrator directly."
+  },
+  "do_not_resolve_yet": [
+    {
+      "question": "Why did June's mother leave the Hall, and what did she take with her?",
+      "earliest_season": 2,
+      "note": "A written answer exists in the author's bible. Season One may establish only that she left, that Marta let it happen, and that something is missing from the Hall's records."
+    },
+    {
+      "question": "Who is buying cut attachments, and what are they assembling out of them?",
+      "earliest_season": 3,
+      "note": "A written answer exists. Seasons One and Two may establish the market, the prices, and the accumulation, never the purpose or the buyer."
+    },
+    {
+      "question": "Are true attachments genuinely dying out, or is something suppressing them?",
+      "earliest_season": 3,
+      "note": "This is the series' slow-apocalypse pressure and may be touched but never settled. Each season pays a partial instalment: a proven fact, never a tease. It is permitted to remain open indefinitely."
+    }
+  ],
+  "june_transformation_history": {
+    "status": "author_locked_2026-08-21",
+    "first_change_age": 16,
+    "years_before_book_one": 15,
+    "rose_instruction": "Before disappearing when June was twelve, Rose taught warning signs and a bare survival routine: clear the room, remove glass and loose objects, anchor the door, leave water, and never treat changed speech as consent. She did not teach Local Nine's infrastructure, the Articles, or why the family line would close.",
+    "adult_private_routine": "June cleared and reinforced a small interior room, blocked all three public moon nights from work, anchored the door from the human side, left water, and recovered alone. It had no exterior lock, attendant, wage coverage, medical check, or reliable emergency release.",
+    "knowledge_boundary": "June knows what she is and how to survive changing. Until B1E03 she does not know how wolves collectively support one another through safe rooms, attendants, housing rosters, wage coverage, and recovery care.",
+    "cyd": "Cyd believes June's recurring absences are a private medical condition and remains ignorant until the Book One disclosure arc.",
+    "milo": "Milo knows June changes but assumes she has a private arrangement; he has never seen or assisted with it.",
+    "marta_and_local_nine": "Marta and Local Nine know from June's borne record that she changes but never investigate how an uninitiated kinswoman contains herself.",
+    "kenneth_card": "When June moved into the Polish Hill apartment at twenty-six, Kenneth saw enough of the unsafe routine to leave an anonymous private-room card without identifying himself or explaining the Hall. June read it as predatory or fraudulent solicitation and discarded it.",
+    "room_six": "Room six is the first purpose-built safe room June ever obtains. Returning it and asking for help mark her refusal to continue treating solitary, unsafe survival as adequate."
+  },
+  "continuity_decisions_pending": [],
+  "ensemble_discipline": {
+    "_note": "Derived from the Hamilton book-one-versus-book-thirty study. The failure being prevented is the greeting tax: once every recurring character is present, every scene must acknowledge everyone, and acknowledgement is not drama. The binding constraints are per-episode and per-arc, not roster size.",
+    "named_recurring_roster_cap": 16,
+    "current_roster": "7 principals plus 9 recurring characters, totalling 16.",
+    "additions_policy": "At most two new recurring characters per season, and only against a retirement. New name in, old name out. A character the audience loves goes to the bench, not onto the roster twice.",
+    "bench_rule": "At most 6 of the 16 appear in any given mini-arc. The rest are explicitly elsewhere on named business, so the ensemble stays alive without being greeted.",
+    "foreground_voices_per_episode": "Six is a hard ceiling. Two or three is preferred when the scene's work is between two people.",
+    "spoken_names_per_episode": "At most 6 names spoken aloud, including people who are not present.",
+    "attention_concentration_floor": "The top 5 characters must hold at least 55 percent of all name-mentions per season. Measured on the finished scripts each season; if it drops below, retire or merge characters before breaking the next season.",
+    "function_uniqueness": "Every recurring character owns exactly one function. Two characters may never share a function; the moment they do, merge them."
+  },
+  "world_logic": {
+    "_note": "The single premise the entire supernatural ecology grows from. Every rule below is an expression of it, not an addition to it. If a proposed mechanic cannot be derived from this, it does not belong in this series.",
+    "first_principle": "No *supernatural* obligation takes hold until it enters a record — and the two lineages disagree, absolutely and in good faith, about what a record is. This principle governs one narrow category only: obligations the lineages' own institutions will enforce, and which carry supernatural or standing-related effect.",
+    "trustee_record": "For trustees, a record is written: an instrument, a filing, a register, a seal. Writing is trusted because it outlives the hand that made it, and because it can be held in secret. A trustee cannot be bound by a handshake and cannot be reassured by a voice.",
+    "member_record": "For members, a record is borne: scent, kinship, the seen change, the vote spoken aloud in a room. The body is trusted because it cannot lie, and paper is distrusted for exactly the reason trustees prize it — it survives the person, so it can be altered once they are gone.",
+    "why_the_articles_matter": "The Articles of 1871 are the only document both systems accept as binding. They are the single place where a written record and a borne record touch. That is the entire source of their power, and the reason neither lineage can simply walk away from them.",
+    "obligation_as_currency": "A supernatural obligation comes into existence only when it is named aloud before witnesses, and is discharged only by performance. A lineage debt is therefore not a sum but a sentence somebody said in front of someone else. This says nothing about money: both lineages transact in money and property constantly, trustees hold and convey estates by written instrument, and a receipt binds a trustee perfectly well. What money cannot do is create or discharge an obligation of the narrow supernatural kind above, because those are constituted by the naming, not by the consideration.",
+    "why_completion_is_permanent": "A completed vow is entered in both registers and held in a living witness's memory, which means it exists in both record-systems at once. Neither system possesses an instrument for erasure — only for annotation. There is nothing to revoke it with.",
+    "why_erasure_fails": "A written record can be annotated; a borne one cannot. Marta could close June's line on paper and could not touch the fact that every member in the Hall can smell she is a Havlik. The roster says she is not; their bodies say she is. Both are true records, and the contradiction is the wolf side's central wound.",
+    "thematic_center": "June makes records for a living. She is a wolf who fights like a trustee — the only person in the city fluent in both systems, which is precisely why she is dangerous and why neither side trusts her.",
+    "what_binds_means": "'Binds' means exactly this: a claim enforceable by a lineage institution, carrying supernatural effect or altering a person's standing. The vow, the Articles and their clauses, surety, initiation, membership, an office, an attachment's registration, and a cutter's commission are all in scope. Nothing else is.",
+    "what_is_out_of_scope": "Everything ordinary remains fully real and fully binding without any record. Promises, guilt, grief, love, loyalty, friendship, apologies, betrayals, favors, threats, and moral duty all matter exactly as much as they do anywhere else. Crimes are crimes. Human contracts, leases, wages, court orders, licenses and debts are enforceable through human institutions and cannot be voided by a lineage argument about records — the Trust owns June's building and collects rent like any landlord. Nobody in this world may reason that an unrecorded wrong did not happen or that an unrecorded promise need not be kept.",
+    "consent_is_not_a_record": "Consent runs the opposite way and is never subject to this principle. A record is required to *create* a supernatural obligation, never to validate a refusal. An unrecorded 'no' is absolute and binding on everyone, instantly, with no witness, filing, or formality of any kind. Silence is a refusal. Withdrawal needs no paperwork. No character may ever argue that a refusal failed for want of a record."
+  },
+  "lineages": {
+    "_note": "Both lineages must be load-bearing. Apply the counterfactual: if the wolf side were replaced by an ordinary human union, family, or congregation, how much of a scene survives? If most of it does, the scene is not using the lineage. Each entry below generates scenes the other lineage cannot.",
+    "members": {
+      "self_description": "a member in good standing",
+      "bodily_reality": "Members change on the three nights bracketing the full moon, involuntarily, on a calendar anyone can look up. Nothing exempts or suppresses it. The consequences are economic before they are dramatic: three nights of lost wages every month, jobs that cannot be held, injuries that cannot be explained to an employer, and a body that must be safely housed on schedule.",
+      "why_the_local_exists": "The mutual-aid local is caused by the lineage, not decoration on it. Dues, the burial fund, the benefits, the hiring hall and the safe rooms exist because members are predictably incapacitated three nights a month and periodically hurt. Remove the moon and the institution has no reason to exist.",
+      "epistemology": "Members smell fear, arousal, illness, recent violence, and kinship. Sustained lying face to face is close to impossible. Therefore wolf politics is conducted in person and aloud, by open roll-call vote, because a position cannot be concealed anyway — and paper is distrusted precisely because it can lie when its author is not in the room.",
+      "kinship": "Blood kin are identifiable by scent, permanently and without instruments. Kinship is therefore a fact, not a claim, and cannot be granted, revoked, or filed away.",
+      "theory_of_personhood": "A person is a body belonging to a line. Standing cannot be appointed, transferred, purchased, or inherited into — it is either borne or it is not. This is why initiation matters: it is not a promotion, it is a recognition.",
+      "punishment": "Exile — removal from presence. Because presence is how members know each other, being unable to be smelled is the whole of the sentence. An exile is not forbidden to return; they are simply no longer recognized when they do.",
+      "time": "Cyclical and public. The month is the unit. Everyone's schedule is on the same wall calendar.",
+      "blind_spot": "Members cannot conceive of an obligation surviving the person who made it, so they consistently underestimate documents — which is how they signed the Articles in 1871 and how they keep losing to them."
+    },
+    "trustees": {
+      "self_description": "a trustee",
+      "bodily_reality": "Direct sunlight destroys a trustee, without exception or tolerance. Daylight hours are therefore transacted through human attorneys of record, which means a trustee's power is always exercised at one remove, by someone else's hand, in a document.",
+      "why_the_trust_exists": "A trust is the only structure that lets a being who accrues indefinitely hold property indefinitely without ever appearing in daylight to claim it. The legal form is caused by the condition.",
+      "epistemology": "Trustees cannot smell a lie and do not expect to. They believe nothing that is not written, sealed, and filed, and they regard a spoken assurance as worthless — which is why they find wolf procedure childish and wolves find theirs sinister.",
+      "kinship": "Kinship is appointment. A trustee's successor is named, not born, and the naming is an instrument. Blood is sentimentality.",
+      "theory_of_personhood": "A person is an office that survives its holder. Standing is transferable, appointable, and inheritable. This is why a trustee reads 'bride' as a position to be filled, while a member hears it as a body being taken out of a line — and why neither can be argued out of their reading.",
+      "punishment": "Excommunication — removal from the record. Because the record is how trustees know each other, a struck name has never existed. The person continues; the office is unmade.",
+      "time": "Linear, secret, and accruing. Power, immunity, and rank all grow with age, and none of it is posted anywhere.",
+      "blind_spot": "Trustees cannot conceive of a binding they did not draft, so they consistently underestimate what a room full of people who cannot lie to each other will simply decide to do."
+    },
+    "collision_points": [
+      "A wolf negotiation must be face to face; nobody can be believed by telephone or letter. A trustee negotiation must be documentary; nobody can be bound by a handshake. Any meeting between them has to solve this before it can begin, which is why bridges — public, in person, and on the record with witnesses — became neutral ground.",
+      "June can lie on paper and to humans. She cannot lie to Marta in a room. This is the actual reason she lies to Cyd: Cyd is the only person close to her who can be lied to.",
+      "Nobody in the Hall needed the roster to know June is a Havlik. They could smell it. They voted her away anyway, which is far crueller than not knowing.",
+      "A trustee offers standing as a gift, sincerely, and cannot understand why it is received as an insult. A member offers recognition, sincerely, and cannot understand why it is received as worthless.",
+      "The Trust's crisis is that it needs an heir who will not die. The Local's crisis is that it needs bodies present three nights a month. Neither shortage can be solved with the other's currency."
+    ],
+    "audit_rule": "If a major supernatural scene would play essentially the same with the member and trustee roles exchanged, or with the wolf side replaced by an ordinary union, the ecology has collapsed and the scene must be rewritten."
+  },
+  "contest": {
+    "name": "Pocket FM — The Fated Mate: A Werewolf Romantasy Contest",
+    "join_by": "2026-09-17",
+    "publish_100k_by": "2026-10-17",
+    "results": "2026-11-17",
+    "audit": "docs/contest-audit.md",
+    "judged_on": [
+      "Theme Fit",
+      "Performance Metrics and listener retention",
+      "Publishing Frequency and consistent updates",
+      "Series Length and long-form scalability"
+    ],
+    "compliance_decisions": [
+      "The half-spoken vow moved into B1E01 to satisfy the mission requirement that the discovery of the fated bond begin the story. The deposition setting was preserved rather than transplanted to the Hall, so the impossible still intrudes on June's ordinary professional world.",
+      "Comprehension deliberately lags the event: June understands roughly a fifth of B1E01 and is still assembling it at B1E12. Moving the event forward did not move the explanation forward.",
+      "The possessive-male-lead requirement is satisfied by inversion, not temperament. Elias claimed her without asking and handed her the dangerous end of the bond in the same act; he is the only character who can be compelled, and she is the one who can compel him. No rival wolf claimant was introduced — that would have solved a rubric with a trope and weakened the premise.",
+      "Elias remains a vampire trustee. Making him a werewolf Alpha would collapse the writing-versus-borne-record ontology that generates the Articles, June's profession, her mother's erasure and the consent boundary. The residual Theme Fit risk is accepted and mitigated by pushing wolf material to the centre.",
+      "The Awakening requirement is met by June's growing fluency in the borne record, completing an idea the story already contained rather than grafting on a hidden power.",
+      "The Blood Moon Clock requirement is met by an ordinary dated full moon that June has no safe room, housing slot or benefit coverage for. No celestial event, no prophecy.",
+      "No element from the guide's eight optional prompts or three example ideas was adopted. No Moon Goddess, Alpha/Omega hierarchy, Luna title, mating bite, secret royal bloodline, or ancient prophecy."
+    ]
+  },
+  "arc_architecture": {
+    "_note": "The book is the unit of story; the episode is the unit of publication. See .agents/skills/series-novel-architect/SKILL.md for the full model.",
+    "publishing_model": "hybrid — continuing episodic serial (Pocket FM) and self-contained books (ebook / audiobook)",
+    "terminology": "'book', 'arc' and 'season' denote the same unit. Legacy fields naming 'season' refer to books. No second unit at that scale exists.",
+    "target_arc_length_episodes": 50,
+    "movements_per_arc": 5,
+    "closure_requirement": "By an arc's final episode: its principal dramatic question is answered, its primary conflict resolves, its emotional arc pays off, its own promises are fulfilled, and the audience receives a genuine climax and denouement. A reader who buys only that book must feel they received a complete story.",
+    "ending_philosophy": "A book ending may carry a hook for the next book, but only after the resolution has landed. A climax in the penultimate episode followed by an unresolved reveal is a serial cliffhanger wearing a book ending's clothes and is prohibited.",
+    "thread_classes": {
+      "episode": "One to two episodes. Propels the listener forward and resolves almost immediately.",
+      "movement": "Five to fifteen episodes. A conflict inside one movement; resolves inside the book.",
+      "book": "Spans the arc. MUST substantially resolve by the arc's end. These are the book's promises.",
+      "series": "Spans multiple books. Deliberately preserved, and gated in do_not_resolve_yet with an earliest book."
+    },
+    "thread_promotion_rule": "A book thread may never be promoted to a series thread in order to prolong the serial. If an arc nears its final movement with a book thread unresolved, resolve it. Reclassification requires an explicit author decision and a CHANGELOG entry, never a quiet edit. Conversely, a series thread must never be resolved to tidy a finale; each pays one partial instalment of proven fact per book.",
+    "convergence_discipline": "From the start of movement four: open no new book threads, give every open book thread a named closing episode, and audit the ledger at the movement three/four boundary. Do not reach the final movement with more open book threads than the remaining episodes can dramatize.",
+    "current_arc": {
+      "arc": "Book One",
+      "episodes": "B1E01–B1E60",
+      "length_episodes": 60,
+      "deviation_from_target": "Ten episodes over the fifty-episode target. Declared, deliberate, and one-time.",
+      "deviation_reason": "Book One was fully architected and verified at sixty episodes before the arc model was adopted, and it already delivers complete closure at B1E60 — climax at B1E53–55, price paid at B1E56–57, resolution and count recorded at B1E58–60. Sixty episodes at the contest word band also lands almost exactly on the Pocket FM contest's 100,000-word requirement, which fifty would miss by fifteen thousand. Restructuring verified work to conform to a target the model itself permits flexing was judged the worse trade.",
+      "movement_scaling": "Five movements of twelve episodes rather than ten.",
+      "movements": [
+        {
+          "movement": 1,
+          "episodes": [
+            "B1E01",
+            "B1E12"
+          ],
+          "function": "Setup, disruption, central question",
+          "milestone": "The vow is spoken in B1E01 and June has the shape of the instrument by B1E12, understanding almost none of it."
+        },
+        {
+          "movement": 2,
+          "episodes": [
+            "B1E13",
+            "B1E24"
+          ],
+          "function": "Escalation, complication, rising cost",
+          "milestone": "Her awakening begins, the moon date closes in, and clause two takes Milo as surety."
+        },
+        {
+          "movement": 3,
+          "episodes": [
+            "B1E25",
+            "B1E36"
+          ],
+          "function": "Reversal and midpoint transformation",
+          "milestone": "B1E30 — the Articles are sincere. Every strategy that assumed bad faith dies, and the Hall votes to honor them."
+        },
+        {
+          "movement": 4,
+          "episodes": [
+            "B1E37",
+            "B1E48"
+          ],
+          "function": "Consequence and convergence",
+          "milestone": "The moon is survived, Cyd learns everything, the third holder surfaces, and lawful forfeiture takes Milo at B1E46–47."
+        },
+        {
+          "movement": 5,
+          "episodes": [
+            "B1E49",
+            "B1E60"
+          ],
+          "function": "Final escalation, climax, payoff, denouement",
+          "milestone": "The reason, the third outcome, three clauses struck at B1E53–55, the price named at B1E56–57, and the count entered at six."
+        }
+      ],
+      "book_threads_resolved_by_finale": [
+        "Whether June answers the vow, seeks or compels Elias's abandonment, or forces a third outcome — settled for Book One by preserving the half-bound state.",
+        "Elias's true reason for speaking first, delivered by his own mouth.",
+        "Clauses one, two and three — defeated on their own terms and permanently barred from execution; all nine original clauses remain visible.",
+        "Whether Local Nine keeps its charter, and what Marta spent to decide it.",
+        "The identity of the third party holding the unread copy.",
+        "Tess Renn's eleven-year case: filed or dead."
+      ],
+      "series_threads_preserved": "The three questions in do_not_resolve_yet, each gated by earliest book and each paying one partial instalment of proven fact in Book One.",
+      "seeds_for_next_arc": [
+        "The letter from the released bride: do not answer him until you know what your mother took.",
+        "An unreported severance in both registers, performed on a person neither can name.",
+        "The roster gap now in June's keeping, and the fact that the same hand made it and altered the minutes.",
+        "Marta out of office; Kenneth out of the Local; Elias barred from office in perpetuity; Pratt still passed over and now owed a favor.",
+        "Nadia's stewards' ledger and the seventh entry with no clause number and no release."
+      ]
+    },
+    "chapter_layer": {
+      "purpose": "Macro chapters group two to three episodes each. Invisible to a serial listener; becomes the ebook and audiobook table of contents at assembly. This is the mechanism by which an arc becomes a sellable book.",
+      "planning_rule": "A chapter anchor must be a coherent unit of story, not an arbitrary bracket. If its episodes do not belong together as one chapter of a novel, re-cut the anchor.",
+      "continuity_rule": "Episodes inside one anchor must read continuously end to end. No episode may re-establish a setting or restate a situation the previous episode just left, because the book version has no gap between them.",
+      "titling": "Chapter titles are book-facing and read as chapter titles. Episode titles are serial-facing and may be blunter.",
+      "assembly": "Scripts/build_book_pdf.py parses the episode heading and filename patterns to build the PDF or EPUB.",
+      "no_serial_scaffolding": "Prose may never contain recap addressed to a paused listener — no 'previously', no 'as you'll remember'. Refresh standing threats through dialogue, action or consequence, which reads correctly in both formats."
+    }
+  },
+  "file_conventions": {
+    "_note": "Naming and location pattern for every arc. Book One established it; every later arc follows it exactly. Do not invent a new scheme.",
+    "arc_naming": "Arcs are named in words, not numerals: 'Book One', 'Book Two', 'Book Three'. Used identically in folder names and file names.",
+    "episode_id": "B<arc number>E<episode number, zero-padded two digits>, scoped to the arc. Book One runs B1E01-B1E60; Book Two runs B2E01-B2E50. Episode numbering restarts at 01 in every arc, and an ID is stable forever once published.",
+    "platform_position": {
+      "_note": "Pocket FM is one continuous serial feed, so its episode numbers do not restart with a new book. Keep both numbers and never conflate them.",
+      "canonical_id": "Arc-scoped, used in all project files: B2E01",
+      "platform_number": "Continuous across the whole series, used only on the platform: episode sixty-one",
+      "mapping_rule": "Record the platform offset in each arc's episode map. Book One offset is zero, so B1E01 is platform episode one. Book Two offset is sixty, so B2E01 is platform episode sixty-one.",
+      "spoken_title_rule": "The spoken first line of an upload uses the PLATFORM number, because that is what a listener is tracking: 'Episode Sixty-One: The Title'. The file name uses the canonical ID."
+    },
+    "worldstate_files": {
+      "macro_storyline": "WorldState/Book-One-Storyline.md, WorldState/Book-Two-Storyline.md, ... — words, hyphenated",
+      "episode_map": "WorldState/BookOneEpisodeMap.json, WorldState/BookTwoEpisodeMap.json, ... — words, camel-joined",
+      "series_wide_files": "BookCodex.json, ContinuityLedger.json, AudioProductionBible.json, VisualBible.md, WritingStyle.md and CHANGELOG.md are series-wide and are never duplicated per arc. One ledger, one codex, one style guide, forever.",
+      "naming_inconsistency_note": "The two per-arc patterns differ — hyphenated for the storyline, camel-joined for the map. That is inherited from the platform fork and is deliberately preserved so existing pointers keep working. Match the existing pattern rather than normalizing it."
+    },
+    "asset_paths": {
+      "episode_prose": "Assets/Book One/Episodes/B1E##-Title-In-Kebab-Case.md — and Assets/Book Two/Episodes/B2E##-... for the next arc",
+      "episode_descriptions": "Assets/<Book Name>/EpisodeDescriptions/",
+      "stills": "Assets/Stills/B1E##/ with a B1E##_Still_Timeline_Map.md beside them; later arcs use B2E##/ etc.",
+      "shared_dirs": "Assets/Covers, Assets/MP3, Assets/MP4 and Assets/Videos are series-wide and not split per arc.",
+      "new_arc_setup": "Starting an arc creates Assets/<Book Name>/Episodes/ and Assets/<Book Name>/EpisodeDescriptions/, plus the two WorldState per-arc files. Nothing else needs creating."
+    },
+    "authority_pointer_rule": "The codex's authority.macro_storyline and authority.episode_map always point at the CURRENT arc. When an arc closes, move its paths into authority.completed_arcs and repoint the live keys. Never delete a completed arc's files."
+  }
+}

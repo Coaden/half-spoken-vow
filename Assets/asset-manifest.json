@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "updated": "2026-08-22",
+  "checksum_algorithm": "sha256",
+  "purpose": "Integrity inventory for visual assets committed to normal Git.",
+  "assets": [
+    {
+      "path": "Assets/Covers/Banner0.png",
+      "media_type": "image/png",
+      "bytes": 3148347,
+      "sha256": "45e2dfb7e05b31dbf5a535f67a1d32c308eaab853e281ebbb8ec803697ff70f5"
+    },
+    {
+      "path": "Assets/Covers/Cover1.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 2890665,
+      "sha256": "5b6e8445af923cf348dbbf5244a35a61a8d53394bab9be1df3bc5166e219fbba"
+    },
+    {
+      "path": "Assets/Covers/EPUBCover.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 2996477,
+      "sha256": "75865f7d5ab5d6a6ad8c2ff6880ca6c3af046f32989ca819566893a0218becc5"
+    },
+    {
+      "path": "Assets/Covers/Inital-Cover.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 3013511,
+      "sha256": "99c39983ceb45284c0f33587ef2a0595f7a2a66f423988e453d73bc8466ba356"
+    },
+    {
+      "path": "Assets/Covers/MainBanner.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 844137,
+      "sha256": "ade6902d9c4c37791939af3bb991a819a711325f0ffc4944f8bff658092a52da"
+    },
+    {
+      "path": "Assets/Covers/THE_HALF-SPOKEN_VOW_202608201553.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 849618,
+      "sha256": "fb87b1a81cc6ad3e32e290b5b7a64920a0cb5f01b4880b9909270ab8363074de"
+    },
+    {
+      "path": "Assets/Covers/THE_HALF-SPOKEN_VOW_2K_202608201436 (1).jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 3321145,
+      "sha256": "747e9fce8945cbbe09298997f990e5b67e9f705982f7cc4a9b7e6d0a63923c6c"
+    },
+    {
+      "path": "Assets/Covers/THE_HALF-SPOKEN_VOW_2K_202608201436.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 3277469,
+      "sha256": "4dd05bad3328eeaa87aac88a651d360e30574508ad4245c87ee9c33ed9a78d14"
+    },
+    {
+      "path": "Assets/Covers/THE_HALF-SPOKEN_VOW_2K_202608201549 2.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 2830822,
+      "sha256": "9cfbc54c27d27ac209a81402099dfccffb4469b7db086e3eedde636251e34e96"
+    },
+    {
+      "path": "Assets/Covers/THE_HALF-SPOKEN_VOW_2K_202608201549.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 2830822,
+      "sha256": "9cfbc54c27d27ac209a81402099dfccffb4469b7db086e3eedde636251e34e96"
+    },
+    {
+      "path": "Assets/Covers/cover2.jpeg",
+      "media_type": "image/jpeg",
+      "bytes": 2926407,
+      "sha256": "d4beac654faa9fb817df4c5bc63c6074d25cd1625104e6bcd1bd10fc42aaba87"
+    }
+  ]
+}

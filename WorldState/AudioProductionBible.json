@@ -1,0 +1,189 @@
+{
+  "version": "2.1.0",
+  "status": "configured for Pocket FM single-narrator delivery; narrator not yet selected by the author",
+  "primary_delivery": {
+    "platform": "Pocket FM",
+    "submission_method": "episode text upload",
+    "audio_upload_status": "not used — the platform generates narration",
+    "narration_format": "continuous prose, single narrator, no speaker labels or bracketed cues",
+    "selected_narrator": null,
+    "selection_status": "gender locked female; specific platform voice not yet selected",
+    "episode_title_policy": "Title goes in the platform title field AND repeats as the first plain-text line of the body, in the form 'Episode One: On the Record', followed by one paragraph break and the cold open. No recap.",
+    "target_minutes_range": [
+      10,
+      12
+    ],
+    "target_spoken_words_range": [
+      1650,
+      1800
+    ],
+    "hard_minimum_spoken_words": 1000,
+    "timing_rule": "Do not estimate batch pacing from word count alone. Measure one pilot episode with the selected narrator, then calibrate.",
+    "public_series_url": null,
+    "publication_status": {
+      "published_chapter_count": 0,
+      "reported_on": "2026-08-18",
+      "status_source": "nothing published yet — series initialized this date"
+    },
+    "narrator_gender_policy": "Locked female. June carries eighty percent of the viewpoint and hers is the embodied POV — the involuntary physical pull, the three nights, the intimacy. Elias's twelve episodes are deliberately institutional and cold and survive female performance without strain; only three of them are physically embodied. Nine of the sixteen recurring characters are women, and the two largest voices after June are Marta and Constance. This locks gender only. The specific platform voice remains unselected pending audition.",
+    "contest_note": "Pocket FM recommends 1,500-1,800 words per episode. This series writes to 1,650-1,800 so that sixty episodes clear the contest's 100,000-word requirement without padding. Publish-by date is 17 October 2026; consistent cadence is an explicit judging criterion, so the schedule matters as much as the prose.",
+    "narrator_gender": "female — locked by author decision, 2026-08-18",
+    "audition_protocol": "Audition on B1E01 from 'A man came out of it' through 'I know.' — roughly ninety seconds containing every variable: June's involuntary physical reaction, Pratt's fussy courtesy, Delisle's tired formality, Elias's declaration, and the button. Three pass conditions: 'Clarification for the record' must land flat and professional rather than brave or defiant; 'I know' must be quiet rather than smouldering; and 'her chest turned toward him' must read as alarming rather than romantic, because at that point June is frightened and not swooning. Shortlist noted 2026-08-18: Nova Rae (mature, serious, observant) as first choice; Kennedy (mature, confident, cinematic) for gothic weight and Constance; Katie (composed, confident) as the safe option; Nova (rich, polished, versatile) if range across sixteen characters matters more than a perfect June. Avoid any voice tagged teenage, innocent, cheerful, bright or energetic, and treat 'seductive' as a mismatch — this series builds heat from restraint, and a pre-seduced narrator makes the dryness read as coy."
+  },
+  "pronunciations": {
+    "_note": "Every invented or potentially ambiguous name a narrator could mispronounce. Guidance is written the way a person would say it aloud. Ordinary English words are omitted.",
+    "Havlik": "HAV-lick. Two syllables, stress on the first, short flat A as in 'have'. Never hav-LEEK.",
+    "June Havlik": "JOON HAV-lick.",
+    "Milo Havlik": "MY-loh HAV-lick. Long I.",
+    "Marta Havlik": "MAR-tah HAV-lick. Not Martha — there is no H.",
+    "Elias Marrow": "ee-LY-us MARR-oh. Three syllables, stress on the second. The surname rhymes with 'arrow'.",
+    "Constance Marrow": "KON-stunss MARR-oh.",
+    "Cyd Toomey": "SID TOO-mee. The given name is spoken exactly like the common name Sid.",
+    "Tess Renn": "TESS REN. Single syllable surname, rhymes with 'ten'.",
+    "Aloysius Pratt": "al-oh-WISH-us PRAT. Four syllables, stress on the third.",
+    "Yolanda Bright": "yoh-LAN-dah BRITE.",
+    "Nadia Kovach": "NAH-dee-ah KOH-vatch. Surname ends with the 'tch' of 'watch', not a hard K.",
+    "Bram Delisle": "BRAM duh-LEEL. The final S is silent.",
+    "Vera Odell": "VEER-ah oh-DELL. Stress the second syllable of the surname.",
+    "Lionel Kearse": "LY-uh-nul KERSS. Surname rhymes with 'hearse'.",
+    "Kenneth Boyle": "KEN-ith BOYL.",
+    "Sondra Pell": "SON-drah PELL.",
+    "Owen Shaw": "OH-in SHAW.",
+    "Local Nine": "Always spoken as two words, 'Local Nine', never as a numeral and never as 'Local 9'.",
+    "the Articles": "Spoken with the definite article and a capital-A weight, as a proper name for the document.",
+    "Cotter Street": "KOT-er Street.",
+    "Polish Hill": "POH-lish Hill. The neighborhood, with the long O of 'Poland' — not the verb 'polish'.",
+    "Sewickley": "suh-WICK-lee. Three syllables, stress on the second.",
+    "Allegheny": "al-uh-GAY-nee. Four syllables, stress on the third.",
+    "Duquesne": "doo-KANE. Two syllables. Used if the incline or the university is named.",
+    "Monongahela": "muh-non-guh-HEE-lah. Five syllables, stress on the fourth.",
+    "the tubes": "Ordinary noun, lowercase in speech. Local usage for the river tunnels.",
+    "the spans": "Ordinary noun, lowercase in speech. Local usage for the bridges as neutral ground."
+  },
+  "address_policy": {
+    "_note": "Prevents random alternation between a character's names in the spoken channel. One entry per principal.",
+    "june": {
+      "first_formal_reference": "June Havlik",
+      "ordinary_narration": "June",
+      "formal_address": "Miss Havlik",
+      "intimate_address": "Nobody uses a diminutive for her. Milo and Kenneth say 'Junie' and are the only two permitted to; Elias uses 'Miss Havlik' well past the point it should have stopped, and the first time he says 'June' it is an event."
+    },
+    "elias": {
+      "first_formal_reference": "Elias Marrow",
+      "ordinary_narration": "Elias",
+      "formal_address": "Mr. Marrow; 'trustee' in Trust business and on any record",
+      "intimate_address": "Constance alone calls him 'Eli', and only when she is about to cost him something. June never shortens his name."
+    },
+    "marta": {
+      "first_formal_reference": "Marta Havlik",
+      "ordinary_narration": "Marta",
+      "formal_address": "the business agent; 'Sister Havlik' in Hall session",
+      "intimate_address": "None. Even June does not call her 'aunt' out loud, which is itself a character fact."
+    },
+    "constance": {
+      "first_formal_reference": "Constance Marrow",
+      "ordinary_narration": "Constance",
+      "formal_address": "Mrs. Marrow; 'senior trustee' in Trust business",
+      "intimate_address": "None permitted. Nobody living has standing to use one."
+    },
+    "cyd": {
+      "first_formal_reference": "Cyd Toomey",
+      "ordinary_narration": "Cyd",
+      "formal_address": "Ms. Toomey",
+      "intimate_address": "June alone says 'Cydney' and only when apologizing, which Cyd finds intolerable and says so."
+    },
+    "tess": {
+      "first_formal_reference": "Tess Renn",
+      "ordinary_narration": "Tess",
+      "formal_address": "Ms. Renn",
+      "intimate_address": "None. She does not offer one and nobody presumes."
+    },
+    "milo": {
+      "first_formal_reference": "Milo Havlik",
+      "ordinary_narration": "Milo",
+      "formal_address": "'Brother Havlik' in Hall session, which embarrasses him",
+      "intimate_address": "June calls him 'Mile' when she is worried about him, and he notices every time."
+    }
+  },
+  "voice_distinction_guide": {
+    "_note": "One narrator performs everyone, so voices are distinguished by wording, cadence, and attribution rather than by timbre. Each principal has a fixed verbal signature the narrator can land in a single line.",
+    "june": "Precise, concrete, present tense in her own head. Quotes people back at themselves verbatim. Asks clarifying questions instead of arguing. Contractions always. Funny in a low flat register, never quippy.",
+    "elias": "Complete sentences, no contractions, no filler. Answers the literal question and stops. Uses titles and surnames. Long clauses only when quoting a document, which he does from memory and without hesitation.",
+    "marta": "Short declaratives. Says the hard thing first. Numbers in every third sentence. Never softens, never apologizes, never raises her voice.",
+    "constance": "Courteous, unhurried, faintly antique word order. Asks permission for things she does not need permission for. Says 'my dear' to people she is about to ruin, entirely without irony.",
+    "cyd": "Fast, profane, interrupts herself, trails off mid-clause and picks up two sentences later. The only character who swears. Solves problems out loud while talking about something else.",
+    "tess": "Blunt to the point of rudeness. States her own motives unprompted. Never uses a softener, never says please, tells the truth as a tactic.",
+    "milo": "Over-explains, walks back, over-explains again. Says the confidential thing and then asks you to forget it. Sentences that start over in the middle."
+  },
+  "spoken_text_normalization": {
+    "rule": "The upload master is read aloud verbatim. Anything that cannot be spoken must be rewritten before upload.",
+    "requirements": [
+      "Spell out all numerals, ordinals, and decimals.",
+      "Spell out clock times, dates, measurements, and units as spoken.",
+      "Replace symbols and abbreviations with words.",
+      "Convert all-caps display text into narrated speech or description.",
+      "Remove Markdown syntax, speaker labels, production notes, and bracketed sound cues."
+    ],
+    "examples": {
+      "Clause 1": "clause one",
+      "9 clauses": "nine clauses",
+      "1871": "eighteen seventy-one",
+      "$900": "nine hundred dollars",
+      "311 members": "three hundred eleven members",
+      "8:00 a.m.": "eight in the morning",
+      "30 days": "thirty days",
+      "Local 9": "Local Nine",
+      "Sec. 3(b)": "subsection three, paragraph b",
+      "ALL CAPS DISPLAY TEXT": "rendered as speech or as narrated description, never as typography"
+    },
+    "series_specific_note": "This series is full of legal citation, dates, dollar amounts, headcounts, and clause numbers, and those countables are a deliberate craft device — every episode carries at least one. They must therefore be normalized with unusual care, because a mis-spoken number damages the one thing the listener is being asked to track."
+  },
+  "sound_design": {
+    "principle": "Sound is carried by prose, not by production cues. The upload master contains no bracketed effects.",
+    "recurring_motifs": [
+      "A stenotype machine under dialogue — the small sound of a record being made while people say binding things, and the silence when June lifts her hands off the keys.",
+      "A read-back: a passage spoken once, then repeated verbatim in a different voice. The series' signature audio device, used for reveals, for menace, and for intimacy.",
+      "River sound under a negotiation — wind and water two hundred feet below a bridge deck, and the change in acoustics when someone steps onto a span.",
+      "Folding chairs on a wooden hall floor: scraping, unstacking, and the particular sound of a room of people sitting down to vote.",
+      "A bound ledger — the weight of a paper roster being opened, pages turned by hand, and a name being read out of it or failing to appear.",
+      "Coffee-urn and church-basement noise: percolation, foil trays, cheap cutlery. The sound of ordinary community that the supernatural politics is spending.",
+      "The tunnel: the pressure change and doubled echo of the river tubes, where a trustee is safe by day and a wolf is not.",
+      "A phone left on speaker on a table — voicemails, calls from clients, and prices quoted by people who are not in the room.",
+      "Scent rendered as knowledge rather than smell — what June suddenly knows about a person in a room, delivered as a flat certainty in the narration rather than as description. The series' awakening motif, and it must never become a superpower cue."
+    ],
+    "silence_policy": "Use silence as punctuation only after the listener understands what just happened. The canonical use is the beat after a legal consequence is announced aloud — the room going quiet after 'that binds only you' — never as a substitute for story movement.",
+    "visual_reveal_conversion": [
+      "A document read into a record, then read back verbatim on request.",
+      "An overheard argument between two authorities through a door or in an alley.",
+      "A voicemail or speakerphone call played in the presence of a witness.",
+      "A paper ledger read aloud, with the crucial fact arriving as an absence somebody has to say out loud.",
+      "A vote called by name, one member at a time.",
+      "A price quoted out loud, in full, before any work is done.",
+      "A sound at a threshold that forces a decision about an invitation."
+    ]
+  },
+  "production_formats": {
+    "pocket_fm_upload": "Clean continuous prose with ordinary dialogue punctuation. No Markdown, labels, notes, or cues.",
+    "single_narrator_rule": "One narrator performs every character. Distinguish voices through wording, cadence, attribution, and context per the voice_distinction_guide above.",
+    "external_multi_voice": "Not planned. Produce separated narration and speaker blocks only if the author explicitly requests an external adaptation.",
+    "foreground_voice_limit": "Six foreground speaking voices per episode is a hard ceiling. Two- and three-hander episodes are deliberate and preferred for intimacy, confrontation, and interrogation; never add a character solely to reach a count.",
+    "pov_handling": "One narrator performs both viewpoints. One POV per episode wherever practical; where it must change, change only at a clean scene boundary and establish the new viewpoint naturally in the opening sentence or two. Never use spoken name headers or mechanical POV announcements, and never rely on separate performers to distinguish viewpoints."
+  },
+  "intimacy_performance_policy": {
+    "authority": "docs/sex-sensuallity-policy.md is authoritative. This section only translates it into narration terms.",
+    "register": "Live in charged non-contact; peak at act-present-with-anatomy-displaced. Attraction, tension, kissing, undressing, intimate touching, desire in dialogue, waking together, aftermath, bite and mark imagery, vulnerability, and emotional consequence are all on-audio.",
+    "transition_rule": "When a scene crosses into sustained graphic description of the act itself, transition through it rather than narrating physical detail. This is not fade-to-black: intimate scenes have beginnings, escalation, emotional turns, and aftermath, and real plot may occur inside them.",
+    "read_aloud_test": "One narrator performs every word. Sensual and intense is the target; any phrasing that becomes awkwardly anatomical when spoken aloud is rewritten or elided.",
+    "escalation_across_series": "Proximity and almost-contact are valuable early and must not be spent in the acquisition runway. Consummation is earned later.",
+    "consent_in_performance": "Consent is affirmative, audible, and revocable in every intimate scene. The attachment never manufactures desire as a device that permits a scene; where the bond intensifies feeling, that is the problem the characters argue about, out loud.",
+    "displaced_intimacy": "Feeding and the moon nights are the series' primary displaced-intimacy channels. They read as intimacy, perform as breath and proximity, follow the same escalation curve, and may recur without spending the consummation."
+  },
+  "elevenlabs_voice_cast": {
+    "status": "not in use — deferred",
+    "_note": "The Pocket FM master uses one platform narrator, so no per-character casting exists and no TTS model is locked. Retained as an empty stub only so the file shape stays comparable across projects. Delete if the project never leaves Pocket FM."
+  },
+  "video_assembly": {
+    "status": "deferred — not a committed production target",
+    "_note": "Pocket FM audio fiction is the only committed target. No video adaptation is planned, and no architecture effort is being spent here. If a visual edition is ever authorized, specify formats and timing then; Scripts/build_visual_episode.sh and WorldState/VisualBible.md exist as a starting point. Do not expand this section speculatively."
+  }
+}

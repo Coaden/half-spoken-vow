@@ -1,0 +1,4 @@
+interface:
+  display_name: "Causal Continuity Auditor"
+  short_description: "Track causes, knowledge, obligations, and episode state."
+  default_prompt: "Audit the requested episode range for causal, epistemic, emotional, institutional, obligation, and temporal continuity without changing manuscript prose."

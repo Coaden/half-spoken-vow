@@ -1,0 +1,29 @@
+# macOS and editor metadata
+.DS_Store
+**/.DS_Store
+*.swp
+*.swo
+*~
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Rebuildable book-production output
+*.epub
+tmp/*
+!tmp/.gitkeep
+output/*
+!output/pdf/
+output/pdf/*
+!output/pdf/.gitkeep
+
+# Audio/video masters require Git LFS or external archival storage.
+# Keep the production directories themselves in Git.
+Assets/MP3/*
+!Assets/MP3/.gitkeep
+Assets/MP4/*
+!Assets/MP4/.gitkeep
+Assets/Videos/*
+!Assets/Videos/.gitkeep
+
