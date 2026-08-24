@@ -78,7 +78,9 @@ recognize rather than merely expose wrongdoing.
 - The vow ends Book One half-bound: Elias's half remains active, binding and exposing him alone. June has
   spoken nothing she can abandon. Formal abandonment would end his half-vow at the permanent price of
   excommunication but would not sever the underlying attachment. Neither of them takes that route in
-  Book One; its ultimate disposition belongs to Volume Two.
+  Book One; its ultimate disposition belongs to Volume Two. His exposure is an operational breach in the
+  Trust, not its automatic collapse: Constance remains unexposed and can preserve continuity through her
+  senior office and counter-instructions, but cannot erase a lawful rival claim against him.
 
 ## What Book One resolves
 

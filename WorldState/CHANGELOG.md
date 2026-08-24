@@ -1,5 +1,15 @@
 # WorldState Changelog
 
+## 3.0.6 — 2026-08-24 — Half-vow institutional scope locked
+
+Locked the distinction between Elias's individual exposure and the Marrow Trust's institutional continuity.
+His half-vow makes him a lawful operational breach: parties with standing may reach him and the information,
+office acts, or claims under his control. It does not expose, compel, or collapse the whole Trust. Constance
+remains unexposed and may preserve continuity through senior-office counter-instructions, but cannot erase a
+valid rival claim against Elias or excuse his resulting choice and breach. This is already dramatized in B1E29.
+
+**Files changed:** `BookCodex.json`, `Book-One-Storyline.md`, `ContinuityLedger.json`, and this changelog.
+
 ## 3.0.5 — 2026-08-24 — B1E14 safe-room motive and seller identity clarified
 
 Clarified that June buys room six from an unnamed member seller, not Kenneth Boyle, for six hundred

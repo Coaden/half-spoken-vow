@@ -1,7 +1,7 @@
 {
   "world_state_version": "3.0.0",
   "canon_status": "Book One manuscript continuity repair and final re-audit complete, 2026-08-21. Clauses One through Three, the immutable-Articles rules, Clause Three procedure, Tess-Kearse invocation chain, three vow states, June's transformation history, and the Book One exit state are authoritative.",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-24",
   "draft_policy": "Live WorldState files override drafts, prior chats, and pasted copies. Superseded facts are never preserved merely because an older draft contains them.",
   "authority": {
     "core_canon": "WorldState/BookCodex.json",
@@ -148,6 +148,7 @@
     "symptoms_are_never_consent": "No symptom, however severe, constitutes consent, entitles anyone to anything, or excuses any act.",
     "law_is_interpretation": "Everything the lineages claim an attachment obliges is law, custom, religion, or propaganda, and may simply be wrong.",
     "vow_asymmetry": "Speaking one half of the vow binds only the speaker, stripping that person's protections and exposing them until the other freely answers or the speaker formally abandons the half-vow.",
+    "half_vow_institutional_scope": "A speaker's half-vow exposure creates an operational breach through which parties with standing may reach that speaker and the information, office acts, or claims they control; it does not expose, compel, or dissolve the speaker's entire institution. An unexposed competent officer may preserve institutional continuity and issue lawful counter-instructions, but cannot erase a valid rival claim against the exposed speaker or excuse that speaker's resulting breach.",
     "vow_states": "The vow has exactly three legal states: abandoned, in which the speaker has formally withdrawn the recorded half and paid the price; half-bound, in which the speaker remains bound and exposed while the other party remains entirely free; and completed, in which both valid halves have been spoken and the five permanent facts attach to both parties.",
     "formal_abandonment": "Before completion, only the speaker may formally abandon a spoken half. Abandonment ends that half-vow and its exposure but does not sever the involuntary attachment. Its price is excommunication: permanent removal from the speaker's lineage record, including every lineage office, succession, institutional protection, and enforcement standing. It does not erase ordinary civil identity or property held in an individual civil capacity.",
     "sun": "Direct sunlight destroys a trustee. There is no exception, no tolerance earned with age, and no version of this granted as a reward.",
@@ -242,6 +243,7 @@
       "core_misbelief": "That a document she wrote in good faith cannot become an instrument of harm, because she can still remember why every clause was necessary.",
       "core_conflict": "The Trust cannot survive the century without a completed attachment, and the only one available belongs to the officer she would have to destroy to claim it.",
       "personal_stake": "Four centuries of continuity, and the possibility that the thing she built to prevent a slaughter has been quietly causing one.",
+      "institutional_position": "Elias's half-vow does not expose Constance. Her senior office preserves the Trust's continuity and lets her issue lawful counter-instructions, but it cannot erase a valid claim against Elias's exposed word. She may use that narrow power to protect June, protect the Trust, or force Elias to declare which he values.",
       "address_policy": {
         "canonical_and_first_formal_reference": "Constance Marrow",
         "ordinary_narration": "Constance",
@@ -386,6 +388,7 @@
       "known_facts": [
         "A half-spoken vow strips the speaker's protections until it is answered or formally abandoned.",
         "An exposed trustee can be compelled, sued, and claimed by any party with standing.",
+        "The exposure reaches the speaker, not the entire Trust. An unexposed senior officer may preserve institutional continuity and issue a competing lawful instruction, but cannot make a valid rival claim against the exposed speaker disappear.",
         "The attachment between them is real, involuntary, and independently observable by others.",
         "The vow is designed to be spoken in two parts separated by an interval, so that consent is deliberate. Elias did not exploit a loophole; he used the intended form at the wrong moment.",
         "Completion is irrevocable and makes exactly five facts permanent. Abandonment before completion is possible and carries its own stated price.",

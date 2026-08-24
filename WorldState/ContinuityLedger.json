@@ -511,6 +511,12 @@
       "fact": "June first changed at sixteen and has survived the three public moon nights for fifteen years before B1E01. Rose taught a bare physical survival routine before disappearing; adult June improvised unsafe private containment without an exterior lock, attendant, wage coverage, medical check, or reliable emergency release. Cyd remains ignorant until the disclosure arc; Milo knows she changes but assumes she has arrangements; Marta and the Hall know she changes but never investigate. Kenneth anonymously left a private-room card when June moved into the Polish Hill apartment at twenty-six, and June discarded it without understanding the source. Room six is June's first purpose-built safe room.",
       "status": "established",
       "origin": "Author decision, 2026-08-21; governs B1E03, B1E33, and B1E35-B1E38 repair"
+    },
+    {
+      "id": "CL-086",
+      "fact": "Elias's half-vow exposes Elias, not the Marrow Trust as a whole. His exposure makes the Trust operationally vulnerable because rivals may compel him or reach information and office acts under his control. Constance remains unexposed in her senior office: she can preserve institutional continuity and issue a valid competing instruction, but she cannot cancel a valid rival claim against Elias or erase the consequence when he chooses which lawful command to breach.",
+      "status": "established",
+      "origin": "Author decision, 2026-08-24; dramatized by Constance's nondisclosure instruction and Kearse's conflicting demand in B1E29"
     }
   ],
   "obligations": [
@@ -2647,10 +2653,10 @@
       "civil_law_effect": "Abandonment does not erase civil identity, ordinary contracts, or property held individually outside lineage office.",
       "articles_effect": "Abandonment before completion is available only to the speaker and carries permanent excommunication from lineage office, succession, protection, and enforcement standing.",
       "local_nine_effect": "June's refusal remains absolute; her decision not to seek or compel Elias's abandonment creates no Local membership or obligation.",
-      "marrow_trust_effect": "Formal abandonment would strike Elias from the lineage record. His later loss of office eligibility does not make abandonment free because excommunication is broader than office disqualification.",
+      "marrow_trust_effect": "Formal abandonment would strike Elias from the lineage record. His later loss of office eligibility does not make abandonment free because excommunication is broader than office disqualification. While the half-vow remains, Elias's exposure is an operational breach rather than the Trust's total exposure: an unexposed senior officer such as Constance may issue a competing valid instruction and preserve institutional continuity, but cannot cancel a valid rival claim against him.",
       "other_institution_effects": {"cutters": "A cutter may separately sever the incomplete attachment. Abandonment is not a cut."},
       "character_beliefs": {"June Havlik": "By B1E05 knows the price and refuses to compel it; by B1E60 actively preserves the half-bound state.", "Elias Marrow": "Accepts ongoing exposure and retains the abandonment decision without using it in Book One."},
-      "reader_knows_as_of": {"episode": "B1E05 after repair", "facts": ["The three vow states are abandoned, half-bound, and completed.", "Abandonment costs excommunication.", "It does not sever the attachment."]}
+      "reader_knows_as_of": {"episode": "B1E29", "facts": ["The three vow states are abandoned, half-bound, and completed.", "Abandonment costs excommunication.", "It does not sever the attachment.", "Constance's contrary instruction demonstrates that a rival may reach exposed Elias without automatically reaching the entire Trust."]}
     }
   ],
   "episode_state": [

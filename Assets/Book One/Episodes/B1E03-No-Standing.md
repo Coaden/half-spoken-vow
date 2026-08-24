@@ -150,7 +150,7 @@ Kenneth's big hand closed on the back of the chair. June could smell something f
 
 June thought about her apartment. Third floor, one door, the anchor she had installed herself in her second year because the landlord would not repair the frame.
 
-"Now here's the part that matters," Kenneth said. "The Hall's got a housing roster. Nine rooms in the basement, doors that lock from outside, and a list of who's in which one. There's a fund that covers your wages for the three shifts you lose, because you're going to lose them, every month, forever. There's a man on the second floor whose whole job is calling employers and lying. There's a burial fund because sometimes it goes wrong."
+"Now here's the part that matters," Kenneth said. "Nine locked rooms downstairs for emergencies, and a housing roster for everybody else. Nobody skips the moon. The question is where they are when it takes them. There's a fund that covers your wages for the three shifts you lose, because you're going to lose them, every month, forever. There's a man on the second floor whose whole job is calling employers and lying. There's a burial fund because sometimes it goes wrong."
 
 He leaned forward.
 
