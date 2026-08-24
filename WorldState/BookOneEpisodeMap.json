@@ -1163,8 +1163,8 @@
       "title": "Nineteen Days to Nine",
       "pov": "June",
       "location": "the Hall on Cotter Street, and a hardware store",
-      "premise": "Eleven days out, June tries to solve the moon the way she solves everything — by procedure — and discovers there is no form, no waiver, and no lawful way to be housed by a body that does not admit she exists.",
-      "payoff": "She secures a room by an ugly, entirely human route: she pays a member out of her own rent money to give up his safe-room slot, which works and which she will be judged for.",
+      "premise": "Nineteen days out, June tries to solve the moon the way she solves everything — by procedure — and discovers there is no form, no waiver, and no lawful way to be housed by a body that does not admit she exists.",
+      "payoff": "She secures a room by an ugly, entirely human route: she pays an unnamed member six hundred fifty dollars from her rent money for three safe-room dates. The key gives her first real containment; the witnessed receipt preserves the Local's contradiction. Both will be judged.",
       "end_hook": "Kenneth Boyle finds out what she paid and who she paid it to, and tells her the man she bought the slot from has three children and had never missed a cycle in twenty years.",
       "target_minutes": 11,
       "target_spoken_words": [
@@ -1177,17 +1177,18 @@
         "Yolanda Bright",
         "Kenneth Boyle"
       ],
-      "cold_open": "Yolanda slides every safe-room form back across the desk unsigned while the red moon date hangs eleven days away.",
-      "pressure": "No waiver can create membership, and June's rent money is the only leverage she has before an involuntary change.",
+      "cold_open": "Yolanda slides every safe-room form back across the desk unsigned while the red moon date hangs nineteen days away.",
+      "pressure": "No waiver can create membership. June now knows that her private bedroom routine has kept her alive but never made her safe, and her rent money is the only leverage she has before an involuntary change.",
       "progression": [
         "June exhausts the official routes and makes Yolanda state on the record that no route exists for the uninitiated.",
-        "She finds a member willing to surrender his slot for cash and pays from the money reserved for rent.",
+        "She finds an unnamed member willing to surrender his slot for cash, verifies the room is purpose-built containment, and pays six hundred fifty dollars from the money reserved for rent.",
         "Kenneth names the human cost: the seller has three children and has never missed a protected cycle."
       ],
       "reveal_channel": "Rejected forms are read aloud, followed by a witnessed cash receipt and Kenneth's face-to-face account of the seller's family.",
       "continuity_updates": [
         "No Local Nine safe-room process covers an uninitiated person.",
-        "June buys a safe-room slot with rent money.",
+        "June buys three safe-room dates from an unnamed member with six hundred fifty dollars of rent money.",
+        "The witnessed receipt preserves the contradiction between the Local's formal denial and its privately transferable protection.",
         "The purchased slot belongs to a member with three children."
       ],
       "end_turn_type": "consequence",

@@ -171,7 +171,7 @@ obstacle, a change, and a consequence.
 ### Chapter Seven — The Borne Record *(Episodes 13–15)*
 - **Want:** To secure a place for the approaching bodily event nobody will house her for, and to understand what she has started noticing about people.
 - **Obstacle:** There is no form, no waiver and no lawful route to a safe room for someone off the roster — and the thing she has started noticing has no name she knows.
-- **Change:** June realizes she has been reading the borne record unconsciously her whole career and begins doing it on purpose. She also buys a safe-room slot from a member with her own rent money, which works and which she will be judged for.
+- **Change:** June realizes she has been reading the borne record unconsciously her whole career and begins doing it on purpose. After the Local records that it has no route to house her, she buys a safe-room slot from an unnamed member with her own rent money. The key gives her immediate safety; the witnessed receipt preserves the Local's contradiction. Both will be judged.
 - **Consequence:** Her transformation begins as a literacy rather than a power, it immediately becomes a professional weapon, and it costs her the ability to be comfortable near the one friend she can still lie to.
 
 ### Chapter Eight — Dues *(Episodes 16–18)*

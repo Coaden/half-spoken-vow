@@ -130,7 +130,7 @@ He stared at the glass. Then he put a hand flat against his upper abdomen.
 
 "Ten minutes," he said. "Off the record."
 
-In the hall, he was sick into a wastebasket.
+In the hall, he threw up into a wastebasket.
 
 Twice.
 

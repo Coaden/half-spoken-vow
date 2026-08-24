@@ -1,5 +1,18 @@
 # WorldState Changelog
 
+## 3.0.5 — 2026-08-24 — B1E14 safe-room motive and seller identity clarified
+
+Clarified that June buys room six from an unnamed member seller, not Kenneth Boyle, for six hundred
+fifty dollars of rent money. The purchase is driven first by her newly understood need for purpose-built
+containment after fifteen years of unsafe private survival; its witnessed human receipt also preserves
+the Local's contradiction without creating membership or validating the transfer. Corrected the
+eight-hundred-dollar intermediate calculation, repaired related obligation and episode-state ledger
+entries, and removed the stale claim that B1E13 skipped Elias's Tess conversation. B1E13 already carries
+the complete causal bridge into the safe-room action and remains unaltered.
+
+**Files changed:** `Assets/Book One/Episodes/B1E14-Nineteen-Days-to-Nine.md`, `BookCodex.json`,
+`Book-One-Storyline.md`, `BookOneEpisodeMap.json`, `ContinuityLedger.json`, and this changelog.
+
 ## 3.0.4 — 2026-08-22 — Book One reader’s edition of the Articles
 
 Added `Assets/Articles/The-Articles-of-Agreement-1871-Book-One-Readers-Edition.md`, a reader-facing

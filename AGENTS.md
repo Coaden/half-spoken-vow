@@ -11,6 +11,8 @@ Write with intelligence, emotional clarity, imagination, and restraint. Surface 
 1. The user's newest instruction wins.
 2. `./WorldState/BookCodex.json` is the primary authority for canon and points to the other authoritative production files.
 3. Canonical supporting material must live under `./WorldState` as Markdown or JSON.
+   `./notes` is the author's scratchpad and non-canonical; do not directly use anything in that folder
+   as input for book-creation skills.
 4. Project skills live under `./.agents/skills/<skill-name>/SKILL.md`.
 5. `docs/locked-decisions.md` records the approved series decisions, `docs/sex-sensuallity-policy.md` is authoritative on intimacy, and `docs/originality-blacklist.md` must be checked before any new coined proper noun enters canon.
 6. Earlier drafts, chats, examples, and generated scenes are reference only unless the current WorldState explicitly reaffirms them.

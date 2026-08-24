@@ -1,0 +1,1 @@
+The Articles are a nine-clause 1871 pact that ended the war and prevented further slaughte between Pittsburgh’s werewolves and vampires. Both sides recognize it as binding, but they fight over what its old language means—and its clauses can claim lives, standing, and consent.

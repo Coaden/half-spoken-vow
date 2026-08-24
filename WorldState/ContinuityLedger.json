@@ -757,16 +757,16 @@
     {
       "id": "OB-008",
       "name": "June's safe-room purchase",
-      "bound_party": ["June Havlik", "Kenneth Boyle"],
-      "beneficiary": ["June Havlik", "Kenneth Boyle"],
+      "bound_party": ["June Havlik", "unnamed member seller"],
+      "beneficiary": ["June Havlik", "unnamed member seller"],
       "origin_episode": "B1E14",
-      "creating_act": "June pays Kenneth six hundred fifty dollars for room six on three moon dates and receives an ordinary receipt.",
+      "creating_act": "June pays an unnamed member seller six hundred fifty dollars for room six on three moon dates and receives an ordinary, witnessed receipt.",
       "operative_language": "Room six. Three dates. Human receipt. Local not accepting.",
       "scope": "Ordinary paid access, not a transfer of Local Nine benefits or supernatural standing.",
       "enforcement_system": ["ordinary human contract"],
-      "known_by": ["June Havlik", "Kenneth Boyle"],
+      "known_by": ["June Havlik", "unnamed member seller", "Kenneth Boyle", "hardware-store clerk"],
       "validity_status": "accepted",
-      "character_positions": {"June Havlik": "Purchases access without accepting charity.", "Kenneth Boyle": "Sells his allotted dates."},
+      "character_positions": {"June Havlik": "Purchases purpose-built containment without accepting charity and preserves a receipt as evidence of the Local's contradiction.", "unnamed member seller": "Sells his allotted dates while concealing that his alternative plan is unsafe.", "Kenneth Boyle": "Does not sell the slot; challenges the purchase and investigates the seller's safety."},
       "effective_from": "B1E14",
       "suspended_by": null,
       "resumes_when": null,
@@ -782,9 +782,9 @@
       "bound_party": ["June Havlik"],
       "beneficiary": ["the unnamed member seller and his child"],
       "origin_episode": "B1E14",
-      "creating_act": "June promises to investigate Kenneth's plan and return the slot without demanding repayment if he has nowhere safe.",
+      "creating_act": "June asks Kenneth to investigate the unnamed seller's actual plan and promises to return the slot without demanding repayment if the seller has nowhere safe.",
       "operative_language": "If you have nowhere safe, I give it back and you keep the money.",
-      "scope": "Ordinary personal promise conditioned on Kenneth lacking a safe alternative.",
+      "scope": "Ordinary personal promise conditioned on the unnamed seller lacking a safe alternative.",
       "enforcement_system": ["ordinary trust and relationship consequence"],
       "known_by": ["June Havlik", "Kenneth Boyle", "the unnamed member seller"],
       "validity_status": "accepted",
@@ -792,8 +792,8 @@
       "effective_from": "B1E14",
       "suspended_by": null,
       "resumes_when": null,
-      "satisfied_by": "Verification of Kenneth's safe plan or return of the slot",
-      "waived_by": "Kenneth Boyle",
+      "satisfied_by": "Verification of the seller's safe plan or return of the slot",
+      "waived_by": "June Havlik",
       "defeated_by": null,
       "current_status": "satisfied",
       "as_of_episode": "B1E35",
@@ -1505,7 +1505,7 @@
           "Tess's case requires a living bride and depends on the amendment trail",
           "Clause-one satisfaction does not answer her separate freedom under the vow",
           "She can read bodily fear and false stated motives as borne information",
-          "Her safe-room purchase displaced Kenneth only if his own plan fails"
+          "Her safe-room purchase may displace the unnamed seller only if the seller's alternative plan fails"
         ],
         "believes": [
           "She can translate between written and borne truth without becoming physically powerful.",
@@ -1870,9 +1870,9 @@
       "must_be_resolved_by": "B1E14",
       "evidence": [
         "B1E13 ends with Elias physically arriving and stating the subject of the needed conversation.",
-        "B1E14 begins a separate safe-room transaction and no interruption, refusal, postponement, or conversation is later supplied through B1E20."
+        "B1E13 continues through the full exchange: Elias confirms the scope of Tess's request, states the knowledge condition, distinguishes evidence from conclusion, and identifies the moon date that drives June to seek safe-room placement."
       ],
-      "proposed_minimum_repair": "Restore the conversation or show the concrete event that prevents and deliberately defers it."
+      "proposed_minimum_repair": null
     },
     {
       "id": "CB-009",
@@ -3017,20 +3017,20 @@
       "relationship_changes": ["June and Cyd preserve the relationship under a newly explicit breach of trust."],
       "material_changes": ["Cyd's agency continues carrying the economic cost."],
       "decision": "June again promises fuller truth.",
-      "next_causal_bridge": "Elias's announced Tess conversation should produce the next state, but B1E14 skips it; see CB-008.",
+      "next_causal_bridge": "Because Elias confirms Tess's limits and names the approaching moon as the next bodily pressure, June takes the rejected safe-room forms to the Hall in B1E14.",
       "audit_status": "repaired_and_verified"
     },
     {
       "episode": "B1E14",
       "trigger": "The moon is approaching and June still lacks Local Nine safe-room benefits.",
-      "entry_cause": "Because bodily danger now has a scheduled date, June buys Kenneth's room slot while protecting against displacing him unsafely.",
+      "entry_cause": "Because the Hall formally denies her a safe room and she now understands that her private routine is survival rather than safety, June buys an unnamed member seller's room-six dates while preserving evidence of the Local's contradiction.",
       "objective_changes": ["June purchases room six for three dates.", "June creates a conditional return promise."],
-      "knowledge_changes": {"June Havlik": ["Kenneth is willing to monetize his allocation", "his alternative plan must be verified"]},
-      "belief_changes": {"June Havlik": ["Ordinary payment can secure access without pretending she has membership standing."]},
+      "knowledge_changes": {"June Havlik": ["The unnamed seller's claimed alternative is unsafe", "purpose-built containment differs materially from the private bedroom routine that has kept her alive", "the seller's actual plan must be verified"]},
+      "belief_changes": {"June Havlik": ["Ordinary payment can secure physical access without creating Local Nine membership standing.", "A witnessed human receipt can preserve the Local's contradiction without itself making the transfer institutionally valid."]},
       "obligation_changes": ["OB-008 and OB-009 created"],
-      "relationship_changes": ["June and Kenneth establish a transactional arrangement bounded by kin concern."],
-      "material_changes": ["June pays six hundred fifty dollars", "the stated remainder is arithmetically inconsistent"],
-      "decision": "June accepts the room only if Kenneth remains safe.",
+      "relationship_changes": ["June and Kenneth establish a bounded investigative arrangement after he challenges her purchase; the seller remains a separate party to the transaction."],
+      "material_changes": ["June pays six hundred fifty dollars from nine hundred forty dollars in rent money, leaving two hundred ninety dollars", "June receives the room-six key and witnessed receipt."],
+      "decision": "June will use the room only if the unnamed seller has a safe alternative; otherwise she will return it without repayment.",
       "next_causal_bridge": "Because work remains her only financial recovery and borne perception is becoming legible, June applies both skills in the next client session.",
       "audit_status": "repaired_and_verified"
     },

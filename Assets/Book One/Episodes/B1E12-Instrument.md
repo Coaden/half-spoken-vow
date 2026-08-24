@@ -50,9 +50,9 @@ Elias watched Constance make a small mark beside sentence four. She did not need
 
 "Read the final consequence," she said.
 
-Pratt turned a page. "A completed attachment would enter both registers, create permanent standing, and prevent either party from forming another attachment. It would also disqualify Trustee Marrow from any future office requiring an oath. As the attachment remains incomplete, none of those consequences has vested."
+Pratt turned a page. “If the attachment were completed, it would enter both registers, create permanent standing, and prevent either party from forming another attachment. It would also disqualify Trustee Marrow from any future office requiring an oath. The attachment remains incomplete. Those consequences have not vested; his exposure under the half-vow remains.”
 
-"And the Trust's interest?"
+“And the Trust’s interest in completion?”
 
 Pratt hesitated.
 

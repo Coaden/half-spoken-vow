@@ -14,7 +14,7 @@ On the table were two coffees, a phone, and a file thick enough to have ruined s
 
 "You bought the deposition recording."
 
-"Somebody did. I bought it."
+"Somebody obtained it. I bought it from them."
 
 "From whom?"
 
@@ -202,9 +202,11 @@ June had not expected the boundary from Tess. It made the threat more credible.
 
 "Agreed."
 
-Tess showed her a withdrawn court petition. An attorney had tested Lenora's objection after her death. The Trust had bought the holder of the attorney's mortgage, called the loan, and offered to correct the default if she withdrew. Human paper had been enough.
+Tess showed her a withdrawn court petition. An attorney had tested Lenora's objection after her death.
 
-"Her wife left because nobody told her what helping me could cost," Tess said.
+"She was my wife," Tess said.
+
+The Trust had bought the holder of their mortgage, called the loan, and offered to correct the default if she withdrew. She withdrew. Then she left, because nobody had told her what helping Tess could cost. Human paper had been enough.
 
 "And you still ambush people in diners."
 
@@ -214,9 +216,9 @@ June examined the disposition. "Is she dead?"
 
 "No."
 
-"Then eating alone is a choice."
+"Then you eat alone by choice."
 
-"Hers."
+"No," Tess said. "She made that choice."
 
 Tess returned the petition to the file. "I am not offering friendship. I am offering organized evidence and a motive you can see coming."
 

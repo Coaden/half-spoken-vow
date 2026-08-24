@@ -70,6 +70,8 @@ It did not become a room.
 
 June left with nineteen days, four rejected forms, and nine hundred and forty dollars in the rent envelope inside her bag. The money had been eleven hundred before bus fare, archive copies, and three meals she had bought instead of admitting she had missed them.
 
+She could go home. She had done that since sixteen: clear the glass, anchor the bedroom door, leave water, and hope the frame held until morning. It had kept her alive. It had never made her safe. Now the Hall had put the difference in writing.
+
 In the main room, a man she did not know was taking his name off a paper list taped beside the coffee urn.
 
 "You giving up your slot?" somebody asked him.
@@ -94,7 +96,9 @@ The man by the list had heard. He met June's eyes, then looked at her bag.
 
 An hour later she found him at the hardware store on Butler Street, loading bags of ice melt beneath a display of plastic snow shovels. He had named the location because his cousin worked at the Hall and did not work here.
 
-Before money, June made him describe the room. Concrete walls. Steel door. Floor drain. Water line. An attendant in the corridor who checked the lock twice. His voice steadied over the materials. The room was infrastructure built because three nights had to be survived on schedule.
+Before she named a price, June made him describe the room: concrete walls, a steel door, a floor drain, a water line, and an attendant in the corridor who checked the lock twice. His answers became more careful over the details. This was not the bedroom June had been holding together with an anchor and hope. It was infrastructure built because three nights had to be survived on schedule.
+
+She wanted the key. The receipt would make the Local explain, later, why the protection it denied her could be traded to someone it refused to name.
 
 "What are you using instead?" she asked.
 
@@ -120,7 +124,7 @@ He was a member. He could smell that she knew he was lying, and she could smell 
 
 "Eight hundred."
 
-That left two hundred and ninety dollars for rent, which was another way of saying it did not leave rent.
+That left one hundred and forty dollars for rent, which was another way of saying it did not leave rent.
 
 "Five hundred."
 
@@ -134,7 +138,7 @@ That left two hundred and ninety dollars for rent, which was another way of sayi
 
 "Six seventy-five."
 
-June thought of the locked drawer in the back of her head where the numbers lived. Rent. Lost December work. Nineteen days. A body she had housed badly for fifteen years because nobody had shown her anything safer.
+June thought of the locked drawer in the back of her head where the numbers lived. Rent. Lost December work. Nineteen days. A room she now knew was safer than the one she had survived in for fifteen years.
 
 "Six fifty," she said. "You read the receipt aloud in front of the clerk."
 

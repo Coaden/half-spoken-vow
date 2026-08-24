@@ -136,7 +136,7 @@ There was a long pause.
 
 "Okay," Cyd said. "Okay. That's — okay. That's better than what I thought."
 
-When she'd rung off, Nadia turned around from the stove.
+When she'd hung up, Nadia turned around from the stove.
 
 "That was well done," she said.
 
