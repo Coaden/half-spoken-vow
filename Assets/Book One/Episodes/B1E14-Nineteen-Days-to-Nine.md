@@ -30,7 +30,7 @@ The office at the Hall was warm from a radiator nobody could turn down. Beyond t
 
 Yolanda lowered her voice anyway.
 
-"I can put you in my basement the night before. I can sit with you until it starts. I cannot keep you there once it does. My grandchildren sleep upstairs."
+“I can help you make calls. I can stay with you until moonrise. I cannot house you through a change. My grandchildren sleep upstairs.”
 
 "I'm not asking you to."
 
@@ -72,33 +72,55 @@ June left with nineteen days, four rejected forms, and nine hundred and forty do
 
 She could go home. She had done that since sixteen: clear the glass, anchor the bedroom door, leave water, and hope the frame held until morning. It had kept her alive. It had never made her safe. Now the Hall had put the difference in writing.
 
-In the main room, a man she did not know was taking his name off a paper list taped beside the coffee urn.
+In the main room, an unknown man stood by the paper list beside the coffee urn, his pen hovering over room six.
 
-"You giving up your slot?" somebody asked him.
+"Giving it up?" somebody asked him.
 
-"Switching with my brother."
+"My brother wants it."
+
+"Then put him on the household form."
+
+"Not yet," the man said.
 
 He smelled afraid before he said it.
 
-June stopped at the urn and read the list. Room assignments. Each line had a member number, three dates, and a signature. One entry had been crossed out and rewritten twice.
+June stopped at the urn and read the list: member number, three dates, signature.
 
-"Is a slot transferable?" she asked Yolanda when the secretary came out behind her.
+"Can he give those dates to somebody else?" she asked Yolanda when the secretary came out behind her.
 
 "Within a household, sometimes. The room doesn't care whose name is on the door. The Local does."
 
-"So physically, yes."
+"And outside a household?"
+
+"No. The room stays with the roster."
 
 "June, don't."
 
 "I asked a physical question."
 
-The man by the list had heard. He met June's eyes, then looked at her bag.
+The man had heard. His eyes went to June's rent envelope.
 
-An hour later she found him at the hardware store on Butler Street, loading bags of ice melt beneath a display of plastic snow shovels. He had named the location because his cousin worked at the Hall and did not work here.
+"Your name isn't on the roster," he said.
 
-Before she named a price, June made him describe the room: concrete walls, a steel door, a floor drain, a water line, and an attendant in the corridor who checked the lock twice. His answers became more careful over the details. This was not the bedroom June had been holding together with an anchor and hope. It was infrastructure built because three nights had to be survived on schedule.
+"No."
 
-She wanted the key. The receipt would make the Local explain, later, why the protection it denied her could be traded to someone it refused to name.
+"I've got room six. All three dates."
+
+Yolanda inhaled behind June.
+
+"You're offering them to me."
+
+"I'm asking whether you have cash."
+
+"What are you asking?"
+
+"Butler Street Hardware. One hour." He glanced back toward the Hall doors. "We shouldn't talk here."
+
+An hour later, he was loading bags of ice melt beneath plastic snow shovels at Butler Street Hardware.
+
+Before she named a price, June made him describe the room: concrete walls, a steel door, a floor drain, a water line, and an attendant in the corridor who checked the lock twice. His answers steadied over the details. This was not June's bedroom, held together with an anchor and hope. It was infrastructure for three nights that had to be survived on schedule.
+
+She wanted the key, and a receipt that would make the Local explain, later, why the protection it denied her could be traded to someone it refused to name.
 
 "What are you using instead?" she asked.
 
@@ -106,7 +128,7 @@ She wanted the key. The receipt would make the Local explain, later, why the pro
 
 Fear rose. The lie could not hold between them, and he knew she smelled it.
 
-"I'm buying the room," June said. "I'm not buying your explanation."
+June was buying the room. She was not buying his explanation.
 
 "I got three nights," he said. "Cotter Street, room six. You want all three?"
 
@@ -188,7 +210,7 @@ He wore a welding jacket with a burn along one sleeve. Cold had reddened his han
 
 "Because there are six people desperate enough to sell a room this month and four of them are dangerous."
 
-June opened her bag and let him read without releasing the paper.
+June opened her bag and let him read without letting go of the paper.
 
 Kenneth got to the signature and shut his eyes.
 
@@ -224,7 +246,7 @@ Kenneth looked toward the store doors. The man had not come out.
 
 "That's why the receipt names the thing they say can't be sold. Either they honor it or explain why the room is empty while I have no placement."
 
-Kenneth's silence said he could smell that she believed it. Belief did not put the seller somewhere safe.
+Kenneth's silence said he could smell her belief. Belief did not put the seller somewhere safe.
 
 "You could file the receipt with Yolanda," he said.
 
@@ -236,7 +258,7 @@ Kenneth's silence said he could smell that she believed it. Belief did not put t
 
 Kenneth did not pretend. "Probably not."
 
-June unfolded the receipt and read the consideration aloud. Six hundred and fifty dollars for three dates. The seller had represented that he possessed another safe arrangement. His body had contradicted that representation before the ink dried.
+June unfolded the receipt and read the consideration aloud: six hundred and fifty dollars for three dates. The seller had claimed he had another safe arrangement. His body had contradicted that representation before the ink dried.
 
 "I knew he was lying," she said.
 
