@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adversarial Editor"
+  short_description: "Independent fiction and continuity review with a lock verdict."
+  default_prompt: "Review the requested episode or episodes as both a demanding fiction editor and a forensic continuity editor. Read as a reader first, then verify against locked canon, the episode map, and the ledger. Classify every finding, include required positive findings, and end with a lock verdict. Do not change manuscript prose."
