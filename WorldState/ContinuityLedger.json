@@ -517,6 +517,12 @@
       "fact": "Elias's half-vow exposes Elias, not the Marrow Trust as a whole. His exposure makes the Trust operationally vulnerable because rivals may compel him or reach information and office acts under his control. Constance remains unexposed in her senior office: she can preserve institutional continuity and issue a valid competing instruction, but she cannot cancel a valid rival claim against Elias or erase the consequence when he chooses which lawful command to breach.",
       "status": "established",
       "origin": "Author decision, 2026-08-24; dramatized by Constance's nondisclosure instruction and Kearse's conflicting demand in B1E29"
+    },
+    {
+      "id": "CL-087",
+      "fact": "The Marrow Trust offices occupy one floor of a Trust-owned commercial office building on Fourth Avenue. The building is held through Trust subsidiaries and serviced by ordinary human property staff whose workplace records may reach the Trust's property office.",
+      "status": "established",
+      "origin": "Author decision, 2026-08-25; dramatized in B1E17"
     }
   ],
   "obligations": [
@@ -3070,10 +3076,10 @@
     },
     {
       "episode": "B1E17",
-      "trigger": "Milo's repeated phrase has become a Trust filing, and clause two is due.",
+      "trigger": "Milo's repeated phrase reaches a night-work log; the Trust property office uses the entry as a lead and converts it into a filed construction in forty-seven minutes, while satisfaction of Residence independently makes clause two due.",
       "entry_cause": "Because Marta must protect Local Nine's record and June must stop further leaks, they confront Milo and define a narrow repair.",
-      "objective_changes": ["Milo records a thirty-day information restriction.", "Clause-two surety notice is served."],
-      "knowledge_changes": {"June Havlik": ["Milo's words created a cross-system filing", "Milo is the apparent surety candidate"]},
+      "objective_changes": ["Milo records a thirty-day information restriction.", "The Clause Two service notice is delivered and Hall acceptance is scheduled for the following evening."],
+      "knowledge_changes": {"June Havlik": ["Milo's words reached the Trust through a workplace lead and exposed her method without supplying proof or activating clause two", "The forty-seven-minute interval measures the Trust's response from log entry to filing, not the speed of the spoken chain", "Satisfaction of Residence independently made clause two due", "Milo is the apparent surety candidate"]},
       "belief_changes": {"June Havlik": ["A voluntary human restriction can repair conduct without inventing supernatural discipline."]},
       "obligation_changes": ["OB-010 and OB-011 created"],
       "relationship_changes": ["June holds Milo accountable without exiling or infantilizing him."],
@@ -3086,15 +3092,15 @@
       "episode": "B1E18",
       "trigger": "Clause two is imminent and the earlier surety death may control its interpretation.",
       "entry_cause": "Because Elias participated in that outcome, he reconstructs the file and tests the current procedure with Constance.",
-      "objective_changes": ["The prior surety failure is assembled into a usable evidentiary packet.", "Constance corrects the current witnessing procedure."],
-      "knowledge_changes": {"Elias Marrow": ["The present clause-two process must satisfy both record systems"]},
-      "belief_changes": {"Elias Marrow": ["Past obedience must be examined as personal responsibility, not merely institutional necessity."]},
+      "objective_changes": ["The prior surety failure is assembled into a usable evidentiary packet.", "Constance enters a marginal instruction requiring personal spoken acceptance in the proposed surety's own words."],
+      "knowledge_changes": {"Elias Marrow": ["The executed Clause Two text remained exact", "The Renn satisfaction was defective because Local Nine's borne record and the Trust's office record relied circularly on one another while neither contained the proposed surety's own understanding", "The present Clause Two process must satisfy both record systems without inferring acceptance from kinship, fitness, presence, or entered office"]},
+      "belief_changes": {"Elias Marrow": ["An exact reading can still produce an invalid satisfaction", "Past obedience must be examined as personal responsibility, not merely institutional necessity."]},
       "obligation_changes": ["OB-011 procedure clarified"],
       "relationship_changes": ["Elias and Constance remain sincere opponents within the same institution."],
       "material_changes": ["A file capable of supporting June's defense now exists."],
       "decision": "Elias preserves the evidence instead of controlling June's choice.",
-      "next_causal_bridge": "Because June needs that precedent and outside standing, she seeks Nadia and negotiates access to the third-holder file.",
-      "audit_status": "clean"
+      "next_causal_bridge": "While Elias preserves the prior evidence, June's urgent need for outside standing and surety material drives her to meet Kearse and negotiate access to the third-holder objection.",
+      "audit_status": "repaired_and_verified"
     },
     {
       "episode": "B1E19",

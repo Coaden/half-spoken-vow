@@ -2,15 +2,15 @@
 
 Episode Seventeen: What Milo Said
 
-Milo repeated June's private phrase in the Hall parking lot, and Marta told her the Trust filed on it forty-seven minutes later.
+Marta met June in the Hall parking lot with a folded Trust construction in one hand. Sondra's unanswered question had followed June from the agency. June had no answer she could give Sondra yet. Marta had given her less than an hour to find one.
 
 "Say the phrase," June said.
 
 Milo looked toward the Hall doors. "Here?"
 
-"You already said it here once."
+"You said it upstairs. More than an hour ago."
 
-Rain clicked against the hoods of three parked cars. The meeting upstairs had ended ten minutes ago, but members were leaving slowly, in pairs, each passing close enough to smell who was frightened and who was angry.
+Rain clicked against parked cars. The meeting upstairs had ended ten minutes ago, but members left slowly in pairs, passing close enough to smell who was frightened and who was angry.
 
 Milo tried to put both hands in his jacket pockets and missed one.
 
@@ -26,7 +26,7 @@ June had said those words to him in Cyd's kitchen. Nobody else had been there.
 
 "Exactly that."
 
-Marta stood beside her car with the Trust filing folded in one hand. "The sentence appears in the application as evidence that June intends to submit to the instrument's jurisdiction. Filed forty-seven minutes after he spoke."
+Marta stood beside her car with the Trust construction folded in one hand. "The sentence appears in this filing as notice of your intended method. It was filed before the meeting adjourned."
 
 "Who heard him?"
 
@@ -42,11 +42,11 @@ Marta looked at June, then at Milo. She opened the Hall door.
 
 "Five minutes," she called. "Nobody leaves."
 
-They reconstructed the sentence in the main room beside the cooling coffee urn. June did not need names on paper. She needed mouths in sequence.
+Yolanda followed the four members into the main room with scrap paper, a sharpened pencil, and the minute book tucked beneath one arm. They reconstructed the sentence beside the cooling coffee urn. June did not need names on paper. She needed mouths in sequence.
 
-The first member said Milo had used *answer the wording.* The second remembered *make the document answer.* The third had heard it from the second near the coat rack. By then the wording had become *she found a way to answer the Articles,* which meant something else entirely.
+The first member said Milo had used the words "answer the wording." The second remembered "make the document answer." The third had heard it from the second near the coat rack. By then the wording had become "she found a way to answer the Articles," which meant something else entirely.
 
-The fourth member had repeated that version to a cousin who serviced the Fourth Avenue building after dark.
+The fourth member had repeated that version to an uncle, one of the two members who had left early. He worked night maintenance in the office building on Fourth Avenue.
 
 "Did you know who employed him?" June asked.
 
@@ -60,43 +60,47 @@ Fear arrived under the words.
 
 The fear did not change. She was telling the truth.
 
-Marta said, "The Marrow Trust owns it through two subsidiaries."
+Marta said, "The Marrow Trust occupies one floor and owns the building through two subsidiaries."
 
-There was the chain. Milo to six members. One member to another. Coat rack to cousin. Cousin to a building owned by the Trust. Forty-seven minutes from private wording to filed construction.
+There was the chain. Milo to six members. One member to another. Coat rack to uncle. Uncle to a building owned by the Trust.
 
 Nobody had lied. Nobody had needed to.
 
 June made them run the chain again in reverse.
 
-The woman who spoke to the cousin repeated the coat-rack version. The member who told her corrected one word. Milo supplied the original. Each person could smell when the phrasing stopped belonging to memory and became reconstruction.
+The woman who spoke to the uncle repeated the coat-rack version. The member who told her corrected one word. Milo supplied the original. Each person could smell when the phrasing stopped belonging to memory and became reconstruction.
 
-"How did the cousin know where to take it?" June asked.
+"How did the uncle know where to take it?" June asked.
 
 The woman shook her head. "He didn't take it anywhere. He said it at work."
 
 "To whom?"
 
-"His supervisor asked why the Hall meeting ran late. He told him there was an argument about the Articles."
+"His supervisor asked why he was late. He said the Hall meeting ran over because there was an argument about the Articles."
 
 "And my sentence?"
 
-"The supervisor asked whether you had agreed to cooperate. My cousin repeated what I told him."
+"The supervisor asked whether you had agreed to cooperate. My uncle repeated what I told him."
 
-Marta said, "The supervisor's office submits an overnight maintenance report to Trust management. Every unusual event affecting the building goes in writing."
+Marta said, "The supervisor logged him late and wrote that a Hall meeting about the Articles had run over. The Trust's property office sees the night log as it is updated. Someone there called the supervisor and asked what the argument was about."
 
-The leak had crossed records without any conspirator. A member repeated a fact in presence. A human employee put it in an ordinary work report. A trustee office treated the report as evidence.
+The leak had crossed records without any conspirator. A member repeated a fact in presence. A human employee recorded a reason for lateness. A trustee office used the work entry as a lead and asked for the rest.
 
-"Who chose to quote my sentence in the filing?" June asked.
+Marta tapped the attached log. "Forty-seven minutes from this entry to the Trust filing."
+
+"That isn't the speed of the gossip," June said. "That's their response time."
+
+"Who chose to quote my sentence in the Trust construction?" June asked.
 
 "That part was the Trust," Marta said.
 
-"Then the chain explains receipt. It doesn't excuse use."
+"Then the chain explains how they heard it. It doesn't make it proof."
 
 "No."
 
-June wrote every step on Yolanda's scrap paper. Milo's confidence breach remained first. Institutional opportunism remained last. Blaming one did not erase the other.
+June wrote every step on Yolanda's scrap paper. Milo's breach remained first. Institutional opportunism remained last. One did not erase the other.
 
-June thanked the four and let them go. Marta objected to the word *let* with her face and not her mouth.
+June thanked the four and dismissed them. Marta's face objected, but her mouth did not.
 
 When the room emptied, Milo said, "I can accept discipline."
 
@@ -154,7 +158,7 @@ Milo stared. "Why?"
 
 "Because I don't get my advantage back by taking your wages."
 
-"You could attack the filing."
+"You could attack the Trust construction."
 
 "With a record that says I trusted you and you broke it. The Trust would still have the sentence. I'd only give them proof it mattered."
 
@@ -183,8 +187,6 @@ Milo nodded. "All right."
 "You will hate doing it."
 
 "Probably."
-
-The consequence did not alter his standing. It required him to face the size of the disclosure and give June information she could use. Human repair, not institutional punishment.
 
 Marta said, "The Hall will not enforce your thirty-day rule."
 
@@ -218,13 +220,13 @@ The difference was narrow. Narrow differences were the only kind institutions re
 
 June asked for a copy before the ink dried. Yolanda made three: one for June, one for Milo, and one for the minutes. Milo carried his own consequence out of the room instead of leaving it for June to remember on his behalf.
 
-Marta opened the filing. "You should hear what they made from the sentence."
+Marta opened the Trust construction. "You should hear what they made from the sentence."
 
 "Read it."
 
 Marta did.
 
-"The named bride has undertaken active construction of the Articles and thereby acknowledged her capacity to perform within their sequence. Her stated intention to require the instrument to answer its own wording constitutes acceptance of the procedural benefits and burdens thereof."
+"The named bride has procured satisfaction of Residence through active construction of the Articles. Her stated intention to require the instrument to answer its own wording is received as notice that she will pursue further constructions within their fixed sequence. The Trust reserves every objection and response permitted under the instrument."
 
 June lifted a hand. "Read the source sentence."
 
@@ -232,15 +234,15 @@ Marta read Milo's words.
 
 "Again."
 
-She read both passages a second time. The difference was audible. June had said she would make the Articles answer. The filing said she had agreed to answer them.
+She read both passages a second time. The difference was audible. June had described a method. The filing had converted that method into advance notice.
 
-"That's reversible," Milo said. "They changed the meaning."
+"That came through three people and a work log," Milo said. "How can they use it?"
 
-"They construed it," June said. "Trustees are allowed to be wrong in complete sentences."
+"Not to prove what I meant. They don't need it for that." June touched the first sentence of the Trust construction. "Naming gave me standing. Residence made clause two due. Milo only told them where I was looking."
 
-"So challenge it."
+"Then challenge it."
 
-"I will. But they know the method now. Every old definition I request tells them where I'm looking. Every precedent file becomes advance notice."
+"I will. But a challenge can't make them unknow it. Every old definition I request tells them where I'm looking. Every precedent file becomes advance notice."
 
 Marta folded the document again. "The advantage is gone."
 
@@ -274,18 +276,16 @@ Marta's head turned toward him.
 
 "Everybody heard. Pratt served notice."
 
-Marta unfolded the second page. "That is why I brought you here."
+Marta took a second document from inside her jacket. "That is why I brought you here."
 
-She read the notice aloud. Clause one had been entered satisfied. Clause two would be presented at the Hall after the required interval. The clause required surety, accepted in both records, to answer for the named bride's performance.
+She read the Clause Two service notice aloud. Clause one had been entered satisfied. Clause two would be presented at the Hall after the required interval. The clause required one fit person from the named bride's line to stand as surety, with kinship and fitness borne in open assembly and the office entered by the Trust.
 
 "Who can serve?" June asked.
 
 Marta read the final line.
 
-"A member in good standing, of the named bride's line, borne and witnessed."
+"One fit person of the named bride's line, with kinship and fitness borne in open assembly."
 
 In the whole county, June had one cousin who met that description.
 
-Marta looked at Milo.
-
-"The Trust has already filed on what he said," she told June. "Clause two is coming, and it requires a member of your line."
+Marta folded the service notice. "The Hall accepts service tomorrow evening." She looked at Milo. "Do not confuse guilt with consent."

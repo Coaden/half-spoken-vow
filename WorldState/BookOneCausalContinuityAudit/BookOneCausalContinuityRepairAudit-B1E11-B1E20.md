@@ -4,6 +4,28 @@
 **Scope:** Repaired live manuscript, inheriting the clean B1E01–B1E10 exit state.  
 **Result:** **PASS.** No blocking contradiction remains within this block or at its B1E10/B1E11 boundary.
 
+## Focused follow-up — 2026-08-25
+
+The E16→E17→E18→E19 sequence was re-audited after adversarial review. It remains a **PASS**.
+
+- B1E17 now acknowledges Sondra's unanswered B1E16 question and establishes that June still has no answer
+  she can safely give before Marta's summons interrupts her search for one.
+- Milo spoke during the Hall meeting more than an hour before the parking-lot confrontation. One hearer
+  left early for night work; the forty-seven-minute interval now runs from the workplace log entry to
+  the Trust construction, proving institutional response time rather than impossible gossip speed.
+- The Trust construction uses the leak only as notice of June's method. Residence independently matured
+  Clause Two, and the service notice now describes the fixed Clause Two structure without treating Milo's
+  guilt, kinship, or presence as consent.
+- B1E18 quotes locked Clause Two verbatim and derives the Renn defect from circular reliance between the
+  borne and written records. The prose does not invent a cause of Lenora's accidental trauma.
+- Constance writes the corrective instruction into the margin on page, and Elias reads its first sentence
+  aloud. The hook remains sound-native and does not disclose the fuller B1E22 instruction.
+- Because B1E18 occurs after midnight, Constance now says the Hall accepts service "this evening," keeping
+  the hearing on the same evening B1E17 identified as "tomorrow."
+- B1E19 still follows causally: June needs outside standing and surety material after the service notice;
+  Kearse offers access to the third-holder objection in exchange for one bounded scheduling fact.
+- Mini-arc MA03 now resolves in B1E17, where June uses scent deliberately to reconstruct the spoken chain.
+
 ## Repairs verified
 
 - B1E11 correctly identifies Tess's audio as the Grant Street deposition recording.

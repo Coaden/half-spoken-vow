@@ -276,7 +276,7 @@
       "id": "MA03",
       "episode_range": [
         "B1E13",
-        "B1E18"
+        "B1E17"
       ],
       "question": "June has been reading one kind of record her whole life. Can she learn to read the other one in time?",
       "payoff": "She realizes she has been reading scent unconsciously for years and starts doing it on purpose — and the cost lands immediately: a lost client, an endangered friend, and a moon date on the wall she has no safe room for."
@@ -1308,9 +1308,9 @@
       "title": "What Milo Said",
       "pov": "June",
       "location": "the Hall, and a parking lot",
-      "premise": "Milo, trying to defend June at the Hall, repeats something she told him in confidence, and it reaches the Trust within the hour.",
+      "premise": "Milo, trying to defend June at the Hall, repeats something she told him in confidence. A night-work log gives the Trust a lead, and its property office turns that lead into a filed construction in forty-seven minutes.",
       "payoff": "June traces the leak's route, chooses not to destroy Milo over it, and loses the strategic advantage she had been building.",
-      "end_hook": "Marta tells her the Trust has already filed on what Milo said, that clause two is coming, and that it requires a member of her line.",
+      "end_hook": "Marta states that the Hall accepts Clause Two service tomorrow evening, then warns Milo not to confuse guilt with consent.",
       "target_minutes": 11,
       "target_spoken_words": [
         1650,
@@ -1322,18 +1322,18 @@
         "Milo Havlik",
         "Marta Havlik"
       ],
-      "cold_open": "Milo repeats June's private phrase in the Hall parking lot, and Marta tells her the Trust filed on it forty-seven minutes later.",
-      "pressure": "June can expose Milo's indiscretion and destroy his standing, or preserve him and surrender the advantage the leak cost her.",
+      "cold_open": "Marta meets June in the Hall parking lot with the Trust construction while Sondra's unanswered question follows June from the agency.",
+      "pressure": "June can turn Milo's indiscretion into a formal complaint that suspends his standing and wages, or preserve him while accepting that the leak cost her strategic advantage.",
       "progression": [
         "June reconstructs the spoken chain because every member must answer face to face.",
-        "Milo admits he used the fact while defending her and offers to accept discipline.",
-        "June refuses to spend him, but Marta announces clause two requires a member of June's line."
+        "Milo admits he used the phrase while defending her and offers to accept discipline.",
+        "June refuses to spend him, distinguishes the leak from the independent maturation of Clause Two, and learns that Milo is the apparent surety candidate."
       ],
-      "reveal_channel": "A face-to-face chain of repeated wording lets June trace the leak by exact phrasing; Marta reads the Trust filing aloud.",
+      "reveal_channel": "A face-to-face chain of repeated wording lets June trace the leak by exact phrasing; Marta reads the Trust construction aloud.",
       "continuity_updates": [
-        "Milo's indiscretion reached the Trust within an hour.",
+        "A workplace log gave the Trust a lead, and the Trust converted it into a filed construction in forty-seven minutes.",
         "June chooses not to seek discipline against him.",
-        "Clause two requires surety from a member of June's line."
+        "Satisfaction of Residence independently makes Clause Two due, requiring one fit person from June's line to stand as surety."
       ],
       "end_turn_type": "new objective",
       "threads": [
@@ -1346,8 +1346,8 @@
         {
           "id": "MA03",
           "class": "movement",
-          "action": "advanced",
-          "note": "Advances the mapped four-to-six-episode mini-arc; its question and payoff are defined in mini_arcs."
+          "action": "resolved",
+          "note": "June deliberately uses scent literacy to reconstruct the spoken chain and distinguish memory from reconstruction."
         }
       ],
       "arc_id": "Book One",
@@ -1360,9 +1360,9 @@
       "title": "The Wording",
       "pov": "Elias",
       "location": "the Marrow Trust archive",
-      "premise": "Ordered to prepare clause two, Elias re-reads the clause he executed on Tess Renn's sister eleven years ago and finds the wording he chose.",
-      "payoff": "The listener learns Elias remembers verbatim every clause he has executed and keeps a private record the Trust never authorized.",
-      "end_hook": "He turns the page to clause two and finds a marginal note in Constance's hand that was not there the last time he read it.",
+      "premise": "Ordered to prepare Clause Two, Elias compares its fixed text, the official Renn disposition, and the unauthorized private record he kept eleven years ago.",
+      "payoff": "Elias discovers how the two institutions produced a formally neat but defective satisfaction: Local Nine bore kinship and fitness, the Trust entered the office, and neither record contained the proposed surety's own understanding.",
+      "end_hook": "After Constance writes a new preparation instruction into the margin, Elias reads its first sentence aloud: the proposed surety must speak acceptance in his own words.",
       "target_minutes": 11,
       "target_spoken_words": [
         1650,
@@ -1376,15 +1376,15 @@
       "cold_open": "Elias opens his unauthorized ledger to the sentence that killed Tess Renn's sister and reads his own old wording aloud.",
       "pressure": "Preparing clause two forces him to revisit an execution he remembers verbatim while concealing a private record from Constance.",
       "progression": [
-        "He compares his ledger with the official archive and confirms the earlier execution was exact.",
+        "He compares the exact Clause Two text with both records and sees how their circular reliance omitted the proposed surety's understanding.",
         "The private record establishes that he preserves the human consequences the Trust reduces to instruments.",
         "Clause two contains a fresh marginal note in Constance's hand, changing how its standing test will be applied."
       ],
-      "reveal_channel": "Elias reads the official clause against his unauthorized handwritten copy, letting the mismatch be heard word for word.",
+      "reveal_channel": "Elias reads the fixed clause and the official and private records aloud, making the gap between exact words and defective satisfaction audible.",
       "continuity_updates": [
         "Elias executed the clause that killed Tess's sister.",
         "He keeps an unauthorized private record of every clause he has executed.",
-        "Constance has added a marginal instruction to clause two."
+        "Constance adds a marginal instruction requiring the proposed surety's acceptance in that person's own words."
       ],
       "end_turn_type": "discovery",
       "threads": [
@@ -1393,12 +1393,6 @@
           "class": "book",
           "action": "advanced",
           "note": "Elias's private record supplies evidence relevant to Tess's case."
-        },
-        {
-          "id": "MA03",
-          "class": "movement",
-          "action": "resolved",
-          "note": "Advances the mapped four-to-six-episode mini-arc; its question and payoff are defined in mini_arcs."
         }
       ],
       "arc_id": "Book One",

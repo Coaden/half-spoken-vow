@@ -1,7 +1,7 @@
 {
   "world_state_version": "3.0.0",
   "canon_status": "Book One manuscript continuity repair and final re-audit complete, 2026-08-21. Clauses One through Three, the immutable-Articles rules, Clause Three procedure, Tess-Kearse invocation chain, three vow states, June's transformation history, and the Book One exit state are authoritative.",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "draft_policy": "Live WorldState files override drafts, prior chats, and pasted copies. Superseded facts are never preserved merely because an older draft contains them.",
   "authority": {
     "core_canon": "WorldState/BookCodex.json",
@@ -113,7 +113,7 @@
       },
       {
         "name": "the Marrow Trust offices, Fourth Avenue",
-        "purpose": "A law-office floor downtown where clauses are read, executed, and recorded. Trust-side authority is exercised as document work, in daylight hours the trustees themselves cannot attend."
+        "purpose": "A law-office floor inside a Trust-owned commercial office building downtown, where clauses are read, executed, and recorded. The building is held through Trust subsidiaries and serviced by ordinary human property staff. Trust-side authority is exercised as document work; in daylight hours the trustees themselves cannot attend."
       },
       {
         "name": "June's apartment, Polish Hill",

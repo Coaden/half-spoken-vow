@@ -1,5 +1,25 @@
 # WorldState Changelog
 
+## 3.0.7 — 2026-08-25 — E17–E18 timing, Clause Two, and Fourth Avenue repaired
+
+Clarified that the Marrow Trust offices occupy one floor of a Trust-owned commercial office building on
+Fourth Avenue, held through subsidiaries and serviced by ordinary human property staff. Reworked the
+B1E17 leak so a late-arrival entry gives the Trust a lead rather than admissible proof, and made the
+forty-seven-minute interval measure the Trust's response from log entry to filing. Satisfaction of
+Residence independently makes Clause Two due; Milo's disclosure costs June the strategic advantage of
+an undisclosed interpretive method but creates no consent, standing, capacity, or Article obligation.
+
+B1E18 now quotes the locked Clause Two verbatim. Elias reaches the narrower canonical defect by comparing
+the two records: Local Nine bore kinship and fitness, the Trust entered the office, and neither recorded
+the proposed surety's own understanding. Constance's corrective marginal instruction is written on page
+and read aloud. Its after-midnight service reference now says "this evening," preserving the calendar
+handoff from B1E17. Mini-arc MA03 now resolves in B1E17, where June demonstrates deliberate scent literacy.
+
+**Files changed:** `Assets/Book One/Episodes/B1E17-What-Milo-Said.md`,
+`Assets/Book One/Episodes/B1E18-The-Wording.md`, `BookCodex.json`, `BookOneEpisodeMap.json`,
+`ContinuityLedger.json`, `BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E11-B1E20.md`,
+and this changelog.
+
 ## 3.0.6 — 2026-08-24 — Half-vow institutional scope locked
 
 Locked the distinction between Elias's individual exposure and the Marrow Trust's institutional continuity.

@@ -8,9 +8,9 @@ Elias opened his unauthorized ledger to the sentence that killed Tess Renn's sis
 
 His voice did not alter. The archive returned it from stone walls and locked cabinets in a smaller, flatter form.
 
-Below the sentence, in the hand he had used eleven years ago, he had written what the official disposition omitted.
+Below the sentence, in his handwriting from eleven years ago, he had written what the official disposition omitted.
 
-Lenora Renn had said, *He never agreed.*
+Lenora Renn had said, "He never agreed."
 
 Tess had struck the corridor door seven times.
 
@@ -22,9 +22,7 @@ None of those facts changed the operative sentence. That was why the Trust had o
 
 Elias had recorded them because satisfaction was not the whole event.
 
-The official record contained neither fact.
-
-Elias closed the ledger when he heard the archive lock turn.
+Elias closed the ledger, slid it into the drawer, and turned the small brass key when he heard the archive lock move.
 
 Constance entered carrying the sealed clause file. "You are working early."
 
@@ -36,7 +34,7 @@ She set the file on the central table without waiting for permission.
 
 The private ledger rested inside a drawer whose lock had been manufactured in eighteen ninety-four and had not improved with age. Constance could hear the mechanism settle if she cared to listen. She did not look at it.
 
-"Mr. Pratt has prepared the notice," she said. "The Hall will accept service tomorrow evening."
+"Mr. Pratt has prepared the notice," she said. "The Hall will accept service this evening."
 
 "I have read it."
 
@@ -56,7 +54,7 @@ Constance broke the archive seal and removed the operative copy of clause two. T
 
 Elias read the clause silently once, although he remembered every word. Then he read it aloud because the difference between memory and record was the purpose of the room.
 
-"Upon satisfaction of Residence, the Bride shall nominate from her borne Line one member in good standing to stand as Surety. No Person shall be held merely by kinship, presence, silence, prior volunteer language, or another's nomination, but only upon personal acceptance after the duties and consequences of the Office are stated and entered in both Records."
+"Upon the satisfaction, waiver, or lawful defeat of the First Clause, the Line from which the Bride is named shall answer by one fit Person standing as Surety, and not by forfeiture laid indiscriminately upon the whole Line. The Line shall bear in open assembly the Kinship and fitness of the Person proposed. The Trust shall enter the Surety as an Office. The Person so entered shall stand answerable for the Deed, if any, expressly named against that Office under a succeeding Clause; and while one Surety lawfully stands, no other Person of the Line shall be charged for the same default. No presumption of fitness shall establish understanding. No writing of Office shall create bodily Kinship, and no bearing of Kinship shall, without more, prove acceptance of Office. If the two Records rely each upon the conclusion of the other and neither contains the Person's own understanding, the Surety shall be defective and no derivative Claim shall issue from it. No Surety may be required to speak for the Bride, complete a Vow, surrender another Person's refusal, or perform a Deed not named before the Office was entered."
 
 Constance listened with her hands folded.
 
@@ -74,13 +72,13 @@ He read it again.
 
 "What would you have said?"
 
-"A surety is an office. The person accepts its incidents."
+"The Line bears kinship and fitness. The Trust enters the office. Together they establish the surety."
 
 "And now?"
 
-"The later construction permits acceptance to be inferred from presence and kinship. The executed clause does not."
+"The office cannot supply understanding."
 
-Constance touched the repaired edge. "You enforced that construction."
+Constance touched the repaired edge. "Yet you entered satisfaction."
 
 "Exactly."
 
@@ -146,9 +144,7 @@ He did. The page described a property surrender carried out in a kitchen while c
 
 "No. Yet the record used the same silence for both."
 
-The second entry showed a lesser execution where no one died and everyone left hating the correct result. The third showed an abandoned reading Constance herself had stopped after a bride lost consciousness. Elias had written that the refusal remained valid before incapacity even though no witness included it in the disposition.
-
-His ledger was not an accusation arranged after June. It was the long record of facts the institution classified as irrelevant.
+The second entry showed a lesser execution where no one died and everyone left hating the correct result.
 
 Constance selected the Renn page again. "Read the official witness certification."
 
@@ -182,11 +178,9 @@ Constance did not ask him to destroy the ledger. She asked him to copy the relev
 
 "For the party who eventually acquires standing to ask the correct question."
 
-Tess had evidence without standing. June had standing without the full evidence. Constance was preparing the bridge while claiming only to repair procedure.
+The packet could bridge them. Tess had evidence without standing. June had standing without the full evidence. Whether Constance intended that result, Elias could not tell.
 
 Elias copied the packet himself. Every omitted fact acquired a page number, a source, and a line capable of surviving him.
-
-That was enough.
 
 "Have you ever used it against the Trust?" Constance asked.
 
@@ -222,27 +216,27 @@ Private: he entered the room to object, was prevented from speaking until after 
 
 Official: clause two was satisfied.
 
-Private: Lenora died during enforcement. Her last complete sentence was, *That is not what he said.*
+Private: Lenora died of injuries the human record called accidental trauma while clause two was being enforced. Her last complete sentence was, "That is not what he said."
 
 The wording matched. The facts around it did not.
 
-"There is no textual mismatch," Elias said.
+"There is no error in the executed words," Elias said.
 
 "No."
 
-"The execution was exact."
+"The reading was exact."
 
 "Yes."
 
-"And wrong."
+"The satisfaction was not."
 
 Constance did not defend herself. "Perhaps."
 
 "You accepted the construction."
 
-"I did. Local Nine accepted it first. Their witnesses said the man's body belonged to her line and his presence supplied assent. We believed their borne record on a matter of kinship."
+"I did. Local Nine accepted it first. Their witnesses bore his kinship and fitness. Their minutes treated his presence as acceptance. We entered the office on that construction."
 
-"They supplied kinship. We supplied office. Neither supplied consent."
+"They supplied kinship. We supplied office. Neither record contained his understanding."
 
 "That is the argument Miss Havlik will make."
 
@@ -262,7 +256,7 @@ Elias looked at her. "You want her to defeat it."
 
 "That is what offices are for."
 
-She drew the current clause toward her and dictated the preparation notes. Each consequence must be stated separately. The proposed surety must be asked for withdrawal after each one. Silence must not be construed as assent. The final acceptance must be spoken in the surety's own words.
+She drew the current clause toward her and wrote in its margin as she dictated the preparation notes. Each consequence must be stated separately. The proposed surety must be asked for withdrawal after each one. Silence must not be construed as assent. The final acceptance must be spoken in the surety's own words.
 
 Elias stopped writing. "That is not the Renn procedure."
 
@@ -308,6 +302,6 @@ Constance rose. At the archive door she paused.
 
 The lock closed behind her.
 
-Elias returned the Renn disposition to his private ledger, then opened the sealed file to clause two. The page carried a marginal note in Constance's hand.
+Elias returned the Renn disposition to his private ledger, then opened the sealed file to clause two. The page now carried Constance's marginal instruction. Elias read its first sentence aloud.
 
-It had not been there the last time he read it.
+"The proposed surety must speak acceptance in his own words."
