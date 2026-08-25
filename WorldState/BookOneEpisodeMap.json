@@ -1422,8 +1422,8 @@
       "pressure": "She needs an ally with standing before clause two, but a rival trust benefits if both the Marrows and the Local fail.",
       "progression": [
         "Kearse establishes neutral ground and treats June as a negotiating party.",
-        "He confirms a third copy exists and offers access in exchange for information about Elias's exposure.",
-        "June limits the bargain to a written concession, but Kearse reveals he has already contacted the third holder."
+        "He proves that the Marrow Trust received a custodial refusal under an unreadable ecclesiastical seal and offers access in exchange for information about Elias's exposure.",
+        "June limits the bargain to a written concession, but only at the button does Kearse reveal that he separately contacted the custodial office and received a different answer."
       ],
       "reveal_channel": "River noise under a face-to-face negotiation, with Kearse reading his proposed terms aloud before handing over the paper.",
       "continuity_updates": [
@@ -1455,7 +1455,7 @@
       "movement": 2,
       "title": "Useful",
       "pov": "June",
-      "location": "a rival trust's house across the river",
+      "location": "a rival trust's library across the river",
       "premise": "June acts on Nadia's strategy and tries to make herself indispensable to Kearse, which is the smartest move available and also a betrayal of the only person protecting her.",
       "payoff": "She secures a real concession from Kearse by trading something that costs her nothing and costs Elias a great deal.",
       "end_hook": "She learns what she traded only when Kearse thanks her for it in front of witnesses.",
@@ -1473,7 +1473,7 @@
       "cold_open": "Kearse places an unsigned concession before June and says it becomes real only after she supplies one fact about Elias.",
       "pressure": "The fact appears harmless to June but can be weaponized against an exposed trustee; refusing leaves her without standing before clause two.",
       "progression": [
-        "June narrows Kearse's written request until it appears to concern procedure, not Elias personally.",
+        "June narrows Kearse's written request, requires a reasonable-search warranty, and confirms that the private scheduling fact is not publicly available.",
         "She gives a truthful scheduling fact and receives access to the rival trust's filed objections.",
         "Kearse thanks her before witnesses for delivering Elias's location during a vulnerable interval, revealing the actual value of the trade."
       ],
@@ -1507,7 +1507,7 @@
       "movement": 2,
       "title": "The Rival Trust",
       "pov": "Elias",
-      "location": "Kearse's house across the river",
+      "location": "Kearse's trust house across the river",
       "premise": "Kearse compels the exposed trustee to attend him and demonstrates for the listener exactly how much of Elias's will is currently forfeit.",
       "payoff": "The listener sees compulsion from the inside, and learns Kearse needs the Marrow Trust to fail.",
       "end_hook": "Kearse asks Elias to name the one thing that would most hurt June Havlik, and Elias, unable to refuse, tells him.",
@@ -1521,7 +1521,7 @@
         "Elias Marrow",
         "Lionel Kearse"
       ],
-      "cold_open": "Elias reaches Kearse's house knowing the invitation is a compulsion and discovers the doors have been left ceremonially open for him.",
+      "cold_open": "Elias reaches Kearse's trust house knowing the summons is a compulsion and discovers the doors have been left ceremonially open for him.",
       "pressure": "As an exposed trustee he must answer a party with standing, and every honest answer can be aimed at June.",
       "progression": [
         "Kearse demonstrates the compulsion through small, humiliating commands before reaching the real question.",
@@ -2575,12 +2575,14 @@
       "pressure": "The parish has independent enforcement standing, and Delisle has delayed a required reading that can no longer be postponed.",
       "progression": [
         "Delisle explains the 1871 custodial arrangement through the parish register.",
+        "He reveals that Kearse's earlier procedural answer was hand-delivered and that the rival trust followed the protected messenger, confirming why the office concealed its identity.",
         "June verifies that the copy is independently witnessed and that the custodian must act upon a valid petition from someone with standing.",
         "Delisle admits he has withheld a required passage for seven days and prepares to read it."
       ],
       "reveal_channel": "The parish register and Articles copy are read aloud against each other, with bells marking the expired delay.",
       "continuity_updates": [
         "Delisle's parish is the third holder.",
+        "Kearse traced the messenger who delivered the office's earlier procedural answer but did not thereby identify the holder.",
         "Its custodial office can present and preserve the Articles but cannot originate a claimant's standing.",
         "Delisle delayed a required reading for one week."
       ],

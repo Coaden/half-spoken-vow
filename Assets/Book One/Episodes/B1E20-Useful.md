@@ -8,9 +8,13 @@ Kearse placed an unsigned concession before June and said it became real only af
 
 "These are the terms."
 
-They sat in a library across the river, after sunset, with two human witnesses at a desk beyond the open doors. Kearse's house was smaller than Sewickley and warmer by several degrees. Nothing looked inherited by accident.
+They sat in a rival trust's library across the river, after sunset, with two human witnesses at a desk beyond the open doors. The room was smaller than Sewickley and warmer by several degrees. Nothing looked inherited by accident.
 
-Aloysius Pratt occupied the chair beside June with a legal pad held against his knees. He was present as counsel for neither party, which seemed to delight him.
+Aloysius Pratt occupied the chair beside June with a legal pad held against his knees. June had asked him to authenticate Kearse's filings, not advise the bargain. He remained the Marrow Trust's attorney of record, a conflict nobody in the room could mistake for neutrality.
+
+"Did the Trust send you?" June asked.
+
+"No. It knows I was asked to inspect rival filings. It did not instruct me to attend."
 
 "Read the concession," June said.
 
@@ -32,7 +36,7 @@ Pratt said, "Human contract. We should preserve the distinction."
 
 Kearse inclined his head. "Thank you, Mr. Pratt."
 
-June read the requested fact: *the location and interval during which Elias Marrow may be served without the presence of another Marrow trustee.*
+June read the requested fact: the location and interval during which Elias Marrow may be served without the presence of another Marrow trustee.
 
 "That's not scheduling," she said. "That's access."
 
@@ -106,7 +110,7 @@ June narrowed the sentence. One location. One forty-minute interval. No informat
 
 The remaining fact appeared harmless: Elias would retrieve the clause file from Fourth Avenue alone between eleven and eleven forty that night.
 
-It cost June nothing. The schedule had been contained in service papers Pratt carried openly. If Kearse wanted it badly enough to trade three objections, he might know less than he claimed.
+It cost June nothing. The schedule appeared only in Pratt's private working service file, which he had shown her while identifying papers already served. It was unavailable through public search. If Kearse wanted it badly enough to trade three objections, he might know less than he claimed.
 
 That was how she justified the signature.
 
@@ -206,9 +210,9 @@ She added the unavailable ledger to her notes without treating it as evidence. A
 
 Pratt asked whether she wanted certified copies made before leaving. June did. Kearse charged no fee, which meant the concession covered paper as well as access. She made him say so. A small term named after the large one was already settled gave the witnesses a second chance to hear that the bargain had limits.
 
-There was June's forty-eight hours before she had won them. There might also be a way to keep Milo out entirely.
+June opened the first objection again. Its failed argument had already given her forty-eight hours. Its denial might also keep Milo out entirely.
 
-She read the admission twice.
+She read the denial's admission twice.
 
 "Useful?" Kearse asked.
 
@@ -216,9 +220,9 @@ She read the admission twice.
 
 "Then we are both satisfied."
 
-The library door opened behind her.
+Footsteps crossed the open library doorway behind her.
 
-Elias entered without invitation because the house was not Kearse's dwelling. It belonged to the trust, not to a resident, a distinction June understood only when nobody stopped him at the threshold.
+Elias entered without invitation because the building was not a dwelling. It belonged to the trust, not to a resident, a distinction June understood only when nobody stopped him at the threshold.
 
 The attachment tightened under her sternum. His gaze found her, then the signed paper.
 

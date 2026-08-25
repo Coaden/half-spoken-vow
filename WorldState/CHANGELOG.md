@@ -1,5 +1,30 @@
 # WorldState Changelog
 
+## 3.0.8 — 2026-08-25 — E19–E20 document identity and information timing repaired
+
+Separated the two custodial records in B1E19. The mid-episode evidence is now exclusively a copy of the
+Marrow Trust's prior consolidation refusal, obtained from a briefly public human-court exhibit. Its damaged
+ecclesiastical seal tells June and the listener what kind of system holds the office without identifying the
+holder. Kearse's own custodial inquiry remains undisclosed until the spoken button, where his separate answer
+becomes new information.
+
+B1E20 now establishes Pratt's role and Marrow conflict without treating him as neutral counsel. Kearse's
+reasonable-search warranty is expressly true: the traded schedule exists only in Pratt's private working
+service file, not public service records. June retains sufficient warning, calls Elias, and freely signs under
+pressure without learning that a pending rival petition can use the interval until Elias arrives. The broken
+forty-eight-hour referent, open-door staging, trust-library location, and upload-visible Markdown emphasis were
+also repaired.
+
+The messenger-tracing material was preserved at its proper reveal point in B1E41: Delisle explains that
+Kearse's people followed the volunteer who hand-delivered his separate procedural answer and failed to trace
+her beyond a hospital lobby.
+
+**Files changed:** `Assets/Book One/Episodes/B1E19-Neutral-Ground.md`,
+`Assets/Book One/Episodes/B1E20-Useful.md`, `Assets/Book One/Episodes/B1E21-The-Rival-Trust.md`,
+`Assets/Book One/Episodes/B1E41-The-Third-Copy.md`,
+`BookOneEpisodeMap.json`, `ContinuityLedger.json`,
+`BookOneCausalContinuityAudit/BookOneCausalContinuityRepairAudit-B1E11-B1E20.md`, and this changelog.
+
 ## 3.0.7 — 2026-08-25 — E17–E18 timing, Clause Two, and Fourth Avenue repaired
 
 Clarified that the Marrow Trust offices occupy one floor of a Trust-owned commercial office building on

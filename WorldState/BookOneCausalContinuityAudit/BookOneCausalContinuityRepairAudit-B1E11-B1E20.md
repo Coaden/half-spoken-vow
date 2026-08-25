@@ -26,6 +26,30 @@ The E16→E17→E18→E19 sequence was re-audited after adversarial review. It r
   Kearse offers access to the third-holder objection in exchange for one bounded scheduling fact.
 - Mini-arc MA03 now resolves in B1E17, where June uses scent deliberately to reconstruct the spoken chain.
 
+## Focused E19–E20 information-state audit — 2026-08-25
+
+Adversarial review identified a spent E19 hook, two conflated custodial documents, an over-identifying
+seal, an unclear warranty, and an unstaged conflict for Pratt. The surgical repair is a **PASS**.
+
+| Story point | June knows | Kearse knows | First-time listener knows |
+|---|---|---|---|
+| E19 offer | Kearse has rival objections and wants bounded information about Elias. | He has the Marrow consolidation refusal, a separate answer to his own custodial inquiry, and an institutional reason to reach Elias. | Only June's side of the proposed exchange; Kearse's full preparation remains concealed. |
+| Marrow refusal produced | An unidentified ecclesiastical office refused the Marrow Trust's consolidation request last year; the damaged seal cannot distinguish a parish, tribunal, archive, or chapel. | The refusal's public-exhibit provenance and the routing office used for his separate inquiry. He does not disclose that inquiry. | The third-copy system remains active and church-connected, but no holder or person can be identified. |
+| Terms narrowed | June may later trade one identified scheduling fact; communications about her standing receive limited messenger protection. | The exclusions leave an unidentified gap, but no specific scheduling fact has yet been selected. | Kearse may exploit something June's list omitted, but the omitted fact and intended use remain unknown. |
+| E19 button | Kearse separately addressed the custodial office and received a different answer. | The contents and purpose of his own correspondence. | The separate correspondence becomes new information at the same moment it does for June. The holder remains unidentified. |
+| E20 requested fact | Kearse seeks a place and interval in which Elias may be served and says he wants to ask a question Elias would otherwise decline. | A separately filed rival demand can be perfected by service during the requested interval. | The fact is dangerous and service-related, but the pending petition and immediate delivery mechanism remain unrevealed. |
+| Warranty and warning | The schedule is unavailable through reasonable public search and exists only in Pratt's private working file. She can refuse, and she warns Elias before deciding. | The warranty is true; June's call may cause her to withdraw if Elias answers. | June has meaningful warning and a genuine choice under pressure, without enough information to predict what service will do. |
+| Signature and file delivery | Her disclosure buys a real forty-eight-hour surety defense and may keep Milo out entirely. Elias has not returned her call. | The bargain has supplied the missing interval; service can now perfect his separate claim. | June's moral risk is visible, but Kearse's exact use remains a suspicion rather than established fact. |
+| Elias enters | Her fact enabled service of a separately filed demand while Elias lacked another Marrow trustee's protection. | His planned use has succeeded. | The intended use becomes explicit only after Elias arrives; the consideration read-back then redefines June's own sentence without changing what she freely chose to sign. |
+
+The former messenger-tracing incident no longer contaminates the Marrow refusal. Its factual material is
+paid later in B1E41, when Delisle identifies the custodial office and explains how Kearse's separate answer
+was delivered and why tracing the volunteer failed.
+
+Kearse's earlier denial is also bounded to prior enforcement of a matured clause. His later procedural
+correspondence therefore remains concealed without requiring him to lie, and the refusal's quoted limitation
+governs exercise of custodial standing rather than every ordinary procedural reply the office may send.
+
 ## Repairs verified
 
 - B1E11 correctly identifies Tess's audio as the Grant Street deposition recording.

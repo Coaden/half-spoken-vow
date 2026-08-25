@@ -74,7 +74,7 @@ June wrote the exception in larger words. A dangerous promise became slightly le
 
 There it was: the price, named without apology.
 
-June took the page and read it aloud. The undertaking not to compel Elias applied only *through the person or standing of June Havlik.* Kearse remained free to compel him directly.
+June took the page and read it aloud. The undertaking not to compel Elias applied only through the person or standing of June Havlik. Kearse remained free to compel him directly.
 
 "This protects me from being used as the route," she said. "Not him from being used."
 
@@ -90,7 +90,7 @@ June took the page and read it aloud. The undertaking not to compel Elias applie
 
 He produced a fountain pen. The hospitality was so complete it had included a tool for resisting him.
 
-June made him read every pronoun with its referent supplied. *We* became Kearse's trust, not Kearse personally. *Notice* meant written service, not a phone call. *Change in the sequence* included a suspended clause, a matured clause, or a filed election.
+June made him read every pronoun with its referent supplied. We became Kearse's trust, not Kearse personally. Notice meant written service, not a phone call. Change in the sequence included a suspended clause, a matured clause, or a filed election.
 
 By the end, his one-page offer carried eight handwritten definitions.
 
@@ -112,9 +112,9 @@ Kearse's expression sharpened. "That removes most facts with value."
 
 "Then you still have a bargain."
 
-He accepted the exclusion subject to the one identified fact. June did not notice that a scheduling location sat outside every category she had named.
+He accepted the exclusion subject to the one identified fact. June did not notice what her list had left out.
 
-June struck *present limits* and wrote: *one scheduling fact, identified before disclosure and accepted by both parties as sufficient consideration.*
+June struck present limits and wrote: one scheduling fact, identified before disclosure and accepted by both parties as sufficient consideration.
 
 Kearse read the change aloud.
 
@@ -160,7 +160,7 @@ He did. The predecessor had protested that an unnamed holder with dormant enforc
 
 Not the person. The office.
 
-"Have they answered before?" June asked.
+"Have they enforced a matured clause before?" June asked.
 
 "Not in any surviving record."
 
@@ -172,7 +172,13 @@ Not the person. The office.
 
 "A copy. You may inspect it if we agree."
 
-June asked him to describe the seal without showing her. Kearse did: an ordinary parish device pressed over a date, with the custodian identified only by office. Then she unfolded Pratt's copied index card and read its blank aloud.
+June asked him to describe the seal without showing her. Kearse did: a worn ecclesiastical device pressed over a date, its identifying words rubbed down to a broken ring. The custodian was identified only by office.
+
+"Church," June said.
+
+"An ecclesiastical office. Parish, diocesan tribunal, archive, hospital chapel. The identifying ring would tell us which, if it were legible."
+
+She wrote down church system, not holder. Then she unfolded Pratt's copied index card and read its blank aloud.
 
 "These don't prove the same holder."
 
@@ -186,45 +192,39 @@ June asked him to describe the seal without showing her. Kearse did: an ordinary
 
 "Excellent."
 
-He offered the reply for her to hold while keeping one gloved finger on its edge. The copy carried no name, but it quoted the custodial provision word for word. Whoever answered had either the third counterpart or access to a text missing from both public indices.
+"How did a rival trust obtain a copy of a refusal sent to the Marrows?"
 
-June read the quotation aloud. River noise took the softer words, so Kearse repeated them. The holder would answer only a properly matured clause or a joint request by both original parties.
+"The Trust attached it to a human property action six months later. The exhibit remained public for three days before the file was sealed. My clerk was attentive."
+
+"Your proof is an exhibit of an answer, not the answer held by its recipient."
+
+"Correct."
+
+He held the reply between them, one gloved finger covering the copy certification. The copy carried no name, but it quoted the custodial provision word for word. Whoever had answered the Marrow Trust had either the third counterpart or access to a text missing from both public indices.
+
+June read the quotation aloud. River noise took the softer words, so Kearse repeated them. The holder would exercise custodial standing only upon a properly matured clause or a joint request by both original parties.
 
 "They won't identify themselves for curiosity," June said.
 
 "Neither will most sensible people."
 
-"Then your letter must have alleged a matured clause."
+"This proves the holder answered the Marrows last year," June said. "It does not prove they'll answer you."
 
-"It asked what notice would be required if one matured."
+"No."
 
-"You showed them the sequence was active."
+Another precise concession. June began to understand why Kearse enjoyed her.
 
-"The Hall's filing already did that."
+"Does the copy say how it was delivered?"
 
-Another technically true sentence. June began to understand why Kearse enjoyed her.
+"No."
 
-"Show me the envelope," she said.
+"If the office answers a future notice concerning my standing and sends a messenger, you do not trace that person."
 
-Kearse produced a transparent sleeve. The address contained no person, only an office and a parish postal box. The reply had arrived by hand rather than through the mail.
+"I have not agreed to give up ordinary investigation."
 
-"Who delivered it?"
+"Then limit it. No tracing any person who carries a custodial communication concerning me."
 
-"A woman who declined to give a name and waited while my secretary signed receipt. Human, as far as anyone could establish."
-
-"Your people searched her."
-
-"They checked for weapons and followed her after she left. She entered a bus, changed twice, and disappeared into a hospital lobby."
-
-"So you pressured the protected custodian immediately after they answered."
-
-"I investigated a messenger."
-
-"That sentence is why the holder stayed unnamed."
-
-Kearse accepted the rebuke. "Likely."
-
-June asked him to include a promise not to trace any future messenger connected to a notice he shared with her. He refused an absolute restriction and accepted one limited to communications concerning June's own standing.
+Kearse accepted the restriction only for communications concerning June's own standing.
 
 "You keep half of every moral improvement," she said.
 
@@ -254,9 +254,9 @@ He signed. June signed only an acknowledgment of receipt, not the bargain itself
 
 At the far end of the span, he stopped beneath a lamp.
 
-"One pleasantry before we part. I have already written to the third holder."
+"One pleasantry before we part. The refusal you inspected went to the Marrows. I have a different answer."
 
-June folded the terms into her coat. "You said the holder was unnamed."
+June folded the terms into her coat. "From the custodial office?"
 
 "I addressed the office."
 

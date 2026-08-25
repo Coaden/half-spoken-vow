@@ -864,8 +864,8 @@
       "beneficiary": ["June Havlik", "Kearse"],
       "origin_episode": "B1E19",
       "creating_act": "June offers one scheduling fact in exchange for access, notice, and protections; both sides perform in B1E20.",
-      "operative_language": "One fact for the surety file, notice of use, and the stated protections.",
-      "scope": "The scheduling fact is performed; confidentiality and notice duties continue.",
+      "operative_language": "One scheduling fact, identified before disclosure, unavailable through reasonable public search, and accepted as consideration for the surety file, notice, and stated protections.",
+      "scope": "The fact comes from Pratt's private working service file rather than public service records. June supplies one location and forty-minute interval for one service; confidentiality, simultaneous notice, and stated protections continue.",
       "enforcement_system": ["ordinary bargain", "Kearse Trust written practice"],
       "known_by": ["June Havlik", "Kearse"],
       "validity_status": "accepted_and_partly_performed",
@@ -1539,14 +1539,14 @@
         "knows": [
           "Clause two demands an eligible surety from her borne line",
           "Milo is the apparent candidate and prior surety precedent is lethal",
-          "Kearse controls the third-holder office or its answer",
+          "Kearse separately contacted the unidentified custodial office and received a procedural answer",
           "Kearse can use narrow scheduling information to compel Elias"
         ],
         "believes": [
           "A third-party procedural strategy may defeat surety without sacrificing Milo.",
           "Narrow bargains still carry consequences beyond the fact traded."
         ],
-        "suspects": ["The third holder is already acting through Kearse"],
+        "suspects": ["The third holder remains active but has answered Kearse only in its custodial capacity"],
         "incorrect_beliefs": [],
         "withholding": ["The full supernatural account from Cyd"],
         "does_not_know": ["Kearse's next lawful demand", "the amendment trail's true chain", "her mother's role"],
@@ -2257,9 +2257,9 @@
     },
     {
       "id": "RIG-007",
-      "omitted_bridge": "Elias enters the rival trust house without an invitation from a resident.",
+      "omitted_bridge": "Elias enters the rival trust house without a threshold invitation from a resident.",
       "supporting_facts": [
-        "B1E20 expressly identifies the house as trust-owned and not Kearse's dwelling.",
+        "B1E20 expressly identifies the building as trust-owned and not a dwelling.",
         "The invitation rule applies only to dwellings."
       ],
       "dominant_inference": "No one resides there, so the threshold rule does not apply.",
@@ -3104,24 +3104,24 @@
     },
     {
       "episode": "B1E19",
-      "trigger": "June needs a surety defense and the third holder has answered through Kearse.",
+      "trigger": "June needs a surety defense, and Kearse offers rival-trust objections plus proof that an unidentified custodial office remains active.",
       "entry_cause": "Because neither Local Nine nor the Marrow Trust alone can supply a neutral solution, June approaches Kearse with one narrow tradable fact.",
-      "objective_changes": ["June and Kearse define a contingent information bargain.", "Kearse confirms control of relevant surety material."],
-      "knowledge_changes": {"June Havlik": ["Kearse can provide the needed file and demands actionable information rather than money"]},
+      "objective_changes": ["June and Kearse define a contingent information bargain.", "The Marrow consolidation refusal proves an active ecclesiastical custodial office without identifying it.", "Only at the episode button does Kearse reveal his separate correspondence with that office."],
+      "knowledge_changes": {"June Havlik": ["Kearse can provide the needed file and demands actionable information rather than money", "the Marrow Trust received a custodial refusal last year", "Kearse separately wrote to the custodial office and received an answer"]},
       "belief_changes": {"June Havlik": ["Usefulness to a third party can be created through bounded information rather than submission."]},
       "obligation_changes": ["OB-012 negotiated but not yet performed"],
       "relationship_changes": ["June and Kearse become transactional adversaries."],
       "material_changes": ["Access to the rival archive becomes possible."],
       "decision": "June will trade one scheduling fact under stated protections.",
       "next_causal_bridge": "Because both sides accepted contingent terms, B1E20 performs the bargain.",
-      "audit_status": "clean_with_inference"
+      "audit_status": "repaired_and_verified"
     },
     {
       "episode": "B1E20",
       "trigger": "The contingent Kearse bargain is ready for simultaneous performance.",
-      "entry_cause": "Because June needs the surety file before clause two and Kearse wants Elias's schedule, they exchange the promised consideration.",
+      "entry_cause": "Because June needs the surety file before clause two and Kearse wants one nonpublic scheduling fact from Pratt's private working material, they negotiate and exchange the promised consideration.",
       "objective_changes": ["June receives a viable surety defense.", "Kearse uses her fact to compel Elias's presence."],
-      "knowledge_changes": {"June Havlik": ["The defense exists", "her narrow disclosure has exposed Elias to a rival demand"]},
+      "knowledge_changes": {"June Havlik": ["The defense exists", "the scheduling fact was unavailable through reasonable public search", "her narrow disclosure has exposed Elias to a rival demand whose intended use she did not know before service"]},
       "belief_changes": {"June Havlik": ["A procedurally narrow bargain can still carry immediate moral consequence."]},
       "obligation_changes": ["OB-012 performed in part; continuing protections remain"],
       "relationship_changes": ["June's independent strategy places Elias at risk even while intended to protect Milo."],
@@ -3414,8 +3414,8 @@
       "episode": "B1E41",
       "trigger": "Delisle's delayed custodial notice requires him to reveal the third counterpart and present a matured clause.",
       "entry_cause": "Because Delisle disclosed the third copy at the Hall, June verifies his office and its authority.",
-      "objective_changes": ["The parish is established as third holder.", "Delisle begins required presentation after a six-day delay."],
-      "knowledge_changes": {"June Havlik": ["The parish can present matured clauses and certify response or refusal but cannot compel speech."]},
+      "objective_changes": ["The parish is established as third holder.", "The protected messenger from Kearse's earlier answer is accounted for.", "Delisle begins required presentation after a six-day delay."],
+      "knowledge_changes": {"June Havlik": ["The parish can present matured clauses and certify response or refusal but cannot compel speech.", "Kearse's people followed the messenger who delivered the earlier procedural answer but failed to identify the custodial office through her."]},
       "belief_changes": {"Father Bram Delisle": ["His protective delay was a breach and cannot substitute for accountable action."]},
       "obligation_changes": ["OB-023 revealed and performed", "OB-024 presentation begins"],
       "relationship_changes": ["Delisle exposes his own breach rather than asking June to trust clerical neutrality."],

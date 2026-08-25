@@ -116,6 +116,14 @@ The parish could force a clause into daylight. It could not force June to perfor
 
 "He found a parish office that answered procedure. I do not know whether he knew what I held."
 
+"How did the answer reach him?"
+
+"By hand. A parish volunteer waited while his secretary signed receipt. Kearse's people followed her onto one bus and then another. She lost them in a hospital lobby."
+
+"He investigated the messenger."
+
+"That is one name for it. It is also why this office remained unnamed."
+
 "What did he ask?"
 
 Delisle read the letter: whether a neutral holder could recognize a bride's appearance independently of membership or Trust office. He had answered yes and cited no document.

@@ -2,7 +2,7 @@
 
 Episode Twenty-One: The Rival Trust
 
-Elias reached Kearse's house knowing the invitation was a compulsion and found every door left ceremonially open for him.
+Elias reached Kearse's trust house knowing the summons was a compulsion and found every door left ceremonially open for him.
 
 The front door stood wide to the November night. The library doors had been fixed back with brass hooks. Even the cabinet holding the recorder was open, its red light visible from the hall.
 
